@@ -1,5 +1,6 @@
 <script>
-	import Theme from "./component/Theme.svelte";
+	import Buttons from "./component/Buttons.svelte";
+import Theme from "./component/Theme.svelte";
 </script>
 
 <h1>Welcome to SvelteKit</h1>
@@ -10,6 +11,7 @@
 
 <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
 <p> bonjour lol </p>
+<Buttons description="merofjiemrofijmefroi"></Buttons>
 <style>
 
 </style>

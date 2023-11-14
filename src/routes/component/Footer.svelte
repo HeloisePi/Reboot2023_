@@ -48,10 +48,20 @@
     <style>
         .contenaire{
             display: flex;
-        justify-content: space-between;
+        justify-content: space-around;
         background-color: rgb(133, 133, 133);
         padding: 1rem;
     }
-    
+
+    .end{
+        background-color: rgb(63, 63, 63);
+        width: 100vw;
+        padding: 1rem;
+        text-align: center;
+    }
+    form{
+        display: flex;
+        flex-direction: column;
+    }
 
 </style>
