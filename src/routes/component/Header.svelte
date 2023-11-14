@@ -1,6 +1,6 @@
 <script></script>
 <header>
-    <img src="/favicon.png" alt="logo home">   
+    <img src="/favicon.svg" alt="logo home">   
     <div class="link">
         <a href="#"><p>Loisirs</p></a>
         <a href="#"><p>Se nourrir</p></a>

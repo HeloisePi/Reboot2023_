@@ -1,5 +1,6 @@
 <script>
-	import Header from "./component/Header.svelte";
+	import Footer from "./component/Footer.svelte";
+import Header from "./component/Header.svelte";
 
 </script>
 <Header />
@@ -8,11 +9,7 @@
 		<slot />
 	</main>
 
-	<footer>
-		<p>
-			© 2023 - Tous droits réservés à nous  - Mentions légales
-		</p>
-	</footer>
+	<Footer />
 </div>
 
 <style>
