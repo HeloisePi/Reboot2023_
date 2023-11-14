@@ -64,4 +64,9 @@
         flex-direction: column;
     }
 
+    @media screen and (max-width: 500px) {
+        .contenaire{
+            flex-direction: column;
+        }
+    }
 </style>
