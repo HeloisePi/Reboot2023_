@@ -16,8 +16,6 @@ onMount(() => {
       toggle.classList.toggle("is-close");
       hamburger.classList.toggle("active");
       cross.classList.toggle("active");
-
-
     }
 
     if (e.target.classList.contains("close-menu")) {
