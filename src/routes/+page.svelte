@@ -22,11 +22,11 @@
     </div>
     <TitleH2>Suggestion</TitleH2>
     <div class="allSuggestion">
-        <Suggestion srcImg="/images/sugestion/1.png" title="Izïa">Depuis la sortie de son cinquième album La vitesse, Izïa la rockeuse au cœur tendre, multiplie les dates telle une tornade et se donne corps et âme à son public.</Suggestion>
-        <Suggestion srcImg="/images/sugestion/2.png" title="Boutique éphémère vintage">Nouveau rendez-vous du marché des Causettes avec des friperies de dingue, dans le lieu atypique du théâtre de la Rousselle!<br>
+        <Suggestion srcImg="/images/sugestion/1.webp" title="Izïa">Depuis la sortie de son cinquième album La vitesse, Izïa la rockeuse au cœur tendre, multiplie les dates telle une tornade et se donne corps et âme à son public.</Suggestion>
+        <Suggestion srcImg="/images/sugestion/2.webp" title="Boutique éphémère vintage">Nouveau rendez-vous du marché des Causettes avec des friperies de dingue, dans le lieu atypique du théâtre de la Rousselle!<br>
             Sam. 18 nov. 2023 11:00 - dim. 19 nov. 2023 19:00 CET<br>
             77 Rue de la Rousselle 33000 Bordeaux</Suggestion>
-        <Suggestion srcImg="/images/sugestion/3.png" title="Afterwork Vins du Beaujolais">Nous proposons deux sessions par afterwork, la première à 18h30 et la seconde à 20h30, afin de correspondre au mieux à vos agendas.<br>
+        <Suggestion srcImg="/images/sugestion/3.webp" title="Afterwork Vins du Beaujolais">Nous proposons deux sessions par afterwork, la première à 18h30 et la seconde à 20h30, afin de correspondre au mieux à vos agendas.<br>
             Animé par : Cécile Bossan-Redon <br>
             En partenariat avec : Inter Beaujolais <br></Suggestion>
     </div>
@@ -138,156 +138,6 @@
 
 
 
-
-
-/*    reset.css */
-
-*{
-    margin: 0;
-    padding: 0;
-    border: 0;
-    font-size: 100%;
-    font: inherit;
-    vertical-align: baseline;
-}
-
-/* HTML5 display-role reset for older browsers */
-
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-menu,
-nav,
-section {
-    display: block;
-}
-
-
-ol,
-ul {
-    list-style: none;
-}
-
-blockquote,
-q {
-    quotes: none;
-}
-
-
-
-
-table {
-    border-collapse: collapse;
-    border-spacing: 0;
-}
-a{
-    text-decoration: none;
-}
-* {
-    box-sizing: border-box;
-}
-
-html, body{
-    width: 100vw;
-    overflow-x: hidden;
-    scroll-behavior: smooth;
-}
-
-/* width */
-::-webkit-scrollbar {
-    width: 5px;
-    height: 5px;
-  }
-  
-  /* Track */
-  ::-webkit-scrollbar-track {
-    background: #f1f1f1; 
-  }
-   
-  /* Handle */
-  ::-webkit-scrollbar-thumb {
-    background: #888; 
-  }
-  
-  /* Handle on hover */
-  ::-webkit-scrollbar-thumb:hover {
-    background: #555; 
-  }
-
-img{
-    width: fit-content;
-    height: fit-content;
-}
-
-
-	/*   Variable.css */
-@font-face {
-    font-family: 'HelveticaNeueInterface';
-    src: url(/src/lib/assets/HelveticaNeueInterface.ttf);
-}
-@font-face {
-    font-family: 'HelveticaNeueInterface_thin';
-    src: url(/src/lib/assets/HelveticaNeueInterface_thin.ttf);
-}
-
-h1{
-    font-family: 'HelveticaNeueInterface_thin', 'Courier New'; 
-    font-size: 4rem;
-}
-
-@media screen and (max-width: 750px) {
-    h1{
-        font-family: 'HelveticaNeueInterface_thin', 'Courier New';     
-        font-size: 100px;
-    }
-}
-@media screen and (max-width: 400px) {
-    h1{     
-        font-size: 2rem;
-    }
-}
-
-h2{
-    font-family: 'HelveticaNeueInterface_thin', 'Courier New';    
-    font-size: 36px;
-}
-
-h3{
-    font-family: 'HelveticaNeueInterface_thin', 'Courier New';    
-    font-size: 1.25rem;
-}
-
-h4{
-    font-family: 'HelveticaNeueInterface_thin', 'Courier New';    
-    font-size: 1.25rem;
-}
-
-h5{
-    font-family: 'HelveticaNeueInterface', 'Courier New';    
-    font-size: 24px;
-}
-
-p{
-    font-family: 'HelveticaNeueInterface_thin', 'Courier New';    
-    font-size: 1.25rem;
-}
-label{
-    font-family: 'HelveticaNeueInterface_thin', 'Courier New'; 
-}
-
-a{
-    font-family: 'HelveticaNeueInterface_thin', 'Courier New';    
-   color: black; 
-}
-
-.bold{
-    font-family: 'HelveticaNeueInterface' ;
-}
 
 
 </style>

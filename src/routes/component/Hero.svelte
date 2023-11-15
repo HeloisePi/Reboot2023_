@@ -3,7 +3,7 @@
 </script>
 
 <h1> {title}</h1>
-<img src="/images/mainImg.png" alt="Main">
+<img src="/images/mainImg.webp" alt="Main">
 <div class="blur"></div>
 <div class="white blur"></div>
 
