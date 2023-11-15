@@ -43,7 +43,7 @@
 
 
 	/*   Variable.css */
-	@font-face {
+@font-face {
     font-family: 'HelveticaNeueInterface';
     src: url(/src/lib/assets/HelveticaNeueInterface.ttf);
 }
@@ -195,6 +195,7 @@ video {
     font-size: 100%;
     font: inherit;
     vertical-align: baseline;
+	background-color: red;
 }
 
 /* HTML5 display-role reset for older browsers */
