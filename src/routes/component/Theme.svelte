@@ -1,9 +1,10 @@
 <script>
     export let logo;
     export let title;
+    export let src;
 </script>
 
-<a href="">
+<a href="{src}">
     {#if logo}
     <img src="{logo}" alt="logo">
     {/if}

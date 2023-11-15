@@ -31,10 +31,11 @@
     }
     h1{
         position: absolute;
-    z-index: 4;
+    z-index: 2;
     margin-left: 50%;
     transform: translate(-50%, 24vw);
     color: white;
+
 
     }
 

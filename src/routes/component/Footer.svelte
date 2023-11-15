@@ -1,3 +1,20 @@
+<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js">
+    import emailjs from '@emailjs/browser';
+	import { onMount } from 'svelte';
+    onMount(() => {
+        let user_mail = document.querySelector('#user_mail');
+    });
+    function sendEmail(e) {
+      emailjs.sendForm('heloise.pingitore@mmibordeaux.com', user_mail, e.target)
+        .then((result) => {
+            console.log('SUCCESS!', result.text);
+        }, (error) => {
+            console.log('FAILED...', error.text);
+        });
+    }
+  
+  </script>
+
 <footer>
     <div class="contenaire">
 
@@ -8,53 +25,74 @@
             <p>
                 Qui sommes-nous
             </p>
-            <p>
-                Contacts
-            </p>
         </div>
         <div class="">
-            <h5>
-                Mentions légales
-            </h5>
+            <h5>Plan du site</h5>
             <p>
-                Accessibilité
+                Se divertir
             </p>
             <p>
-                Confidentialité
+                Se vêtir
             </p>
             <p>
-                Conditions
+                Se nourrir
+            </p>
+            <p>
+                Divers
             </p>
         </div>
         <div class="">
             <h5>
                 Feedback
             </h5>
-            <form action="">
-                <label for="">Prénom</label>
-                <input type="text">
-                <label for="">Message</label>
-                <input type="text">
-                <input type="submit">
+            <form on:submit|preventDefault={sendEmail}>
+                <label class="bold" for="">Votre Mail</label>
+                <input type="text" id="user_mail">
+                <label class="bold" for="">Message</label>
+                <textarea class="message"/>
+                <input type="submit" value="Envoyer">
             </form>
         </div>
+
+        
         
     </div>
     <div class="end">
-        <p>© Partenaires de crime - Tous droits réservés</p>
+        <p class="black">© Frynge - Tous droits réservés - Mentions Légales</p>
     </div>
 </footer>
     
     <style>
+h5{
+    margin-bottom: 64px;
+    margin-top: 64px;
+}
+input{
+    height: 3rem;
+    border-radius: 4px;
+    background-color: white;
+    margin-bottom: 64px;
+    width: 10rem;
+}
+p, label{
+    margin-bottom: 32px;
+}
+
+.message{
+    height: 10rem;
+    width: 20rem;
+    margin-bottom: 32px;
+}
+
+        
         .contenaire{
             display: flex;
         justify-content: space-around;
-        background-color: rgb(133, 133, 133);
+        background-color: #303030;
         padding: 1rem;
     }
 
     .end{
-        background-color: rgb(63, 63, 63);
         width: 100vw;
         padding: 1rem;
         text-align: center;
@@ -64,9 +102,23 @@
         flex-direction: column;
     }
 
-    @media screen and (max-width: 500px) {
+    @media screen and (max-width: 740px) {
         .contenaire{
             flex-direction: column;
+            align-items: center;
+            justify-content: center;
         }
+        div, form{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+    }
+    p, a, h5, h4, h3, label{
+        color: white;
+    }
+    .black{
+        color: black;
     }
 </style>

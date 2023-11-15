@@ -43,15 +43,35 @@ onMount(() => {
       
     </div>
     <div class="slide close">
-      <a class="close-menu" href="../saga"><p>XXXXXXX</p></a>
-      <a class="close-menu" href="../creationSerge"><p>XXXXXXX</p></a>
-      <a class="close-menu" href="../#about"><p>XXXXXXX</p></a>
-      <a class="close-menu" href="../#contact"><p>XXXXXXX</p></a>
+      <a class="close-menu"href="#"><p>Se divertir</p></a>
+        <a class="close-menu"href="#"><p>Se vêtir</p></a>
+        <a class="close-menu" href="#"><p>Se nourir</p></a>
+        <a class="close-menu" href="#"><p>Divers</p></a>
+        <a class="close-menu" href="#"><p>À propos</p></a>
+        <a class ="addTuto close-menu" href="#"><p>Ajouter un tuto</p></a>
     </div>
 </header>
-
+<div class="behind"></div>
 
 <style>
+  .behind{
+        width: 100vw;
+        height: 70px;
+        top: -1;
+    }
+
+  .addTuto{
+        background-color: #21864F;
+        padding: 5px;
+        padding-left: 10px;
+        padding-right: 10px;
+        border-radius: 10px;
+        color: white;
+    }
+
+    a{
+      width: fit-content;
+    }
   .headershow .active{
     display: block;
   }
@@ -90,6 +110,8 @@ onMount(() => {
       background-color: white;
       padding: 1rem;
       z-index: 4;
+      box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+            backdrop-filter: blur(5.5px);
     }
 
       .toggle{
@@ -118,6 +140,7 @@ onMount(() => {
       display: flex;
       flex-direction: column;
       gap: 1rem;
+      z-index: 9;
     }
 
     a{

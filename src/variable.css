@@ -40,16 +40,23 @@ h4{
 }
 
 h5{
-    font-family: 'HelveticaNeueInterface_thin', 'Courier New';    
-    font-size: 0.875rem;
+    font-family: 'HelveticaNeueInterface', 'Courier New';    
+    font-size: 24px;
 }
 
 p{
     font-family: 'HelveticaNeueInterface_thin', 'Courier New';    
     font-size: 1.25rem;
 }
+label{
+    font-family: 'HelveticaNeueInterface_thin', 'Courier New'; 
+}
 
 a{
     font-family: 'HelveticaNeueInterface_thin', 'Courier New';    
    color: black; 
+}
+
+.bold{
+    font-family: 'HelveticaNeueInterface' ;
 }
