@@ -1,36 +1,75 @@
 <script>
-	import Buttons from "./component/Buttons.svelte";
-	import Carousel from "./component/Carousel.svelte";
-
+	import Hero from "./component/Hero.svelte";
+    import TitleH2 from "./component/TitleH2.svelte";
     import Theme from "./component/Theme.svelte";
-	
-	
-	let colors = ['red', 'orange', 'yellow', 'green', 'blue', 'purple']
 </script>
+<Hero title="Frynge"/>
+<section>
+    <TitleH2>Description</TitleH2>
+    <p class="textDescription">Bienvenue sur Frynge, la plateforme bons plans qui t’aide à entrer dans une démarche de décroissance. Tutos, activités, astuces, bons plans… fais le plein d’idées à petit budget.</p>
+    <TitleH2>Bons plans</TitleH2>
+    <div class="BoutonsTheme">
+        <Theme logo="/images/logo/hobbies.svg" > Se<br> Divertir</Theme>
+        <Theme logo="/images/logo/clothes.svg" >Se<br> vêtir</Theme>
+        <Theme logo="/images/logo/food.svg" >Se<br> nourrir</Theme>
+    </div>
+    <TitleH2>Nos vidéos</TitleH2>
+    <div class="videos">
+        <iframe src="https://www.youtube.com/embed/cekwQzDzkVs?si=3FvNZ6eU2yeZE9Ez" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/cekwQzDzkVs?si=3FvNZ6eU2yeZE9Ez" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/cekwQzDzkVs?si=3FvNZ6eU2yeZE9Ez" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
 
-<h1>Welcome to SvelteKit</h1>
-<p>hello</p>
+</section>
 
-<Theme title="Nourir" description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi adipisci eius voluptatibus minus, aspernatur at fugiat. Perspiciatis, alias? Hic, quae esse assumenda magnam deserunt quos voluptate iusto! Debitis, quo optio?" />
-<Theme title="Manger" description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi adipisci eius voluptatibus minus, aspernatur at fugiat. Perspiciatis, alias? Hic, quae esse assumenda magnam deserunt quos voluptate iusto! Debitis, quo optio?" />
-
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
-<p> bonjour lol </p>
-<Buttons description="merofjiemrofijmefroi"></Buttons>
-<Carousel autoplay="2000">
-	{#each colors as color, index (index)}
-	  <div style="background-color: {color}" />
-	{/each}
-	<span slot="left-control">Left</span>
-	<span slot="right-control">Right</span>
 <style>
-	div {
-		height: 8rem;
-		width: 8rem;
-	}
-	
-	span {
-		display: inline-block;
-		margin-top: 6rem;
-	}
+    .textDescription{
+        margin-bottom: 5rem;
+    }
+    .videos{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        justify-items: center;
+        padding-bottom: 5rem;
+    }
+
+    @media screen and (max-width: 1250px) {
+        .videos{
+            grid-template-columns: 1fr 1fr;
+            row-gap: 2rem;
+        }
+    }
+    @media screen and (max-width: 922px) {
+        .videos{
+            grid-template-columns: 1fr;
+        }
+    }
+    @media screen and (max-width: 520px) {
+        .videos iframe{
+            width: 200px;
+            height: 150px;
+        }
+    }
+
+    iframe{
+        border-radius: 10px;
+        width: 350px;
+        height: 200px;
+    }
+    section{
+        width: 100vw;
+        padding-left: 5rem;
+        padding-right: 5rem;
+    }
+    .BoutonsTheme{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        justify-items: center;
+
+        padding-bottom: 5rem;
+        margin-left: 50%;
+        transform: translateX(-50%);
+        width: 100vw;
+    }
+    
 </style>

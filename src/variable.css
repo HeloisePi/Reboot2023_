@@ -1,10 +1,21 @@
+@font-face {
+    font-family: 'HelveticaNeueInterface';
+    src: url(/src/lib/assets/HelveticaNeueInterface.ttf);
+}
+@font-face {
+    font-family: 'HelveticaNeueInterface_thin';
+    src: url(/src/lib/assets/HelveticaNeueInterface_thin.ttf);
+}
+
 h1{
+    font-family: 'HelveticaNeueInterface_thin', 'Courier New'; 
     font-size: 4rem;
 }
 
 @media screen and (max-width: 750px) {
-    h1{     
-        font-size: 3rem;
+    h1{
+        font-family: 'HelveticaNeueInterface_thin', 'Courier New';     
+        font-size: 100px;
     }
 }
 @media screen and (max-width: 400px) {
@@ -14,28 +25,31 @@ h1{
 }
 
 h2{
+    font-family: 'HelveticaNeueInterface_thin', 'Courier New';    
     font-size: 36px;
 }
 
 h3{
+    font-family: 'HelveticaNeueInterface_thin', 'Courier New';    
     font-size: 1.25rem;
 }
 
 h4{
+    font-family: 'HelveticaNeueInterface_thin', 'Courier New';    
     font-size: 1.25rem;
 }
 
 h5{
+    font-family: 'HelveticaNeueInterface_thin', 'Courier New';    
     font-size: 0.875rem;
 }
 
 p{
+    font-family: 'HelveticaNeueInterface_thin', 'Courier New';    
     font-size: 1.25rem;
 }
 
 a{
+    font-family: 'HelveticaNeueInterface_thin', 'Courier New';    
    color: black; 
-}
-a:hover{
-    text-decoration: underline;
 }

@@ -1,10 +1,12 @@
 <script>
- export let description;
+ export let src;
+ export let imgSrc;
 </script>
 
-<p>{description}</p>
+<a href="{src}"><p><slot></slot></p></a>
+{#if imgSrc}
+    <img src="{imgSrc}" alt="bonton">
+{/if}
 <style>
-p{
-    color:blue;
-    }
+
 </style>
