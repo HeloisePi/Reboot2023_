@@ -2,6 +2,7 @@
 	import Footer from "./component/Footer.svelte";
 	import Header from "./component/Header.svelte";
 	import HeaderMobile from "./component/HeaderMobile.svelte";
+	import './styles.css';
 
 </script>
 
