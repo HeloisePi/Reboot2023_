@@ -1,17 +1,18 @@
-<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js">
-    import emailjs from '@emailjs/browser';
-	import { onMount } from 'svelte';
-    onMount(() => {
-        let user_mail = document.querySelector('#user_mail');
-    });
-    function sendEmail(e) {
-      emailjs.sendForm('heloise.pingitore@mmibordeaux.com', user_mail, e.target)
-        .then((result) => {
-            console.log('SUCCESS!', result.text);
-        }, (error) => {
-            console.log('FAILED...', error.text);
-        });
-    }
+<script >
+    // import emailjs from '@emailjs/browser';
+	// import { onMount } from 'svelte';
+    // onMount(() => {
+    //     let user_mail = document.querySelector('#user_mail');
+    //     let form = document.querySelector('form')
+    // });
+    // function sendEmail(e) {
+    //   emailjs.sendForm('heloise.pingitore@mmibordeaux.com', user_mail, e.target, 'publicKey')
+    //     .then((result) => {
+    //         console.log('SUCCESS!', result.text);
+    //     }, (error) => {
+    //         console.log('FAILED...', error.text);
+    //     });
+    // }
   
   </script>
 
@@ -45,7 +46,7 @@
             <h5>
                 Feedback
             </h5>
-            <form on:submit|preventDefault={sendEmail}>
+            <form>
                 <label class="bold" for="">Votre Mail</label>
                 <input type="text" id="user_mail">
                 <label class="bold" for="">Message</label>
