@@ -1,19 +1,4 @@
 <script >
-    // import emailjs from '@emailjs/browser';
-	// import { onMount } from 'svelte';
-    // onMount(() => {
-    //     let user_mail = document.querySelector('#user_mail');
-    //     let form = document.querySelector('form')
-    // });
-    // function sendEmail(e) {
-    //   emailjs.sendForm('heloise.pingitore@mmibordeaux.com', user_mail, e.target, 'publicKey')
-    //     .then((result) => {
-    //         console.log('SUCCESS!', result.text);
-    //     }, (error) => {
-    //         console.log('FAILED...', error.text);
-    //     });
-    // }
-  
   </script>
 
 <footer>
@@ -46,13 +31,7 @@
             <h5>
                 Feedback
             </h5>
-            <form>
-                <label class="bold" for="">Votre Mail</label>
-                <input type="text" id="user_mail">
-                <label class="bold" for="">Message</label>
-                <textarea class="message"/>
-                <input type="submit" value="Envoyer">
-            </form>
+            <p class="pFeedback">Envoyez un mail à cette adresse mail, pour nous recommender des tips.</p>
         </div>
 
         
@@ -68,22 +47,11 @@ h5{
     margin-bottom: 64px;
     margin-top: 64px;
 }
-input{
-    height: 3rem;
-    border-radius: 4px;
-    background-color: white;
-    margin-bottom: 64px;
-    width: 10rem;
-}
-p, label{
+
+p{
     margin-bottom: 32px;
 }
 
-.message{
-    height: 10rem;
-    width: 20rem;
-    margin-bottom: 32px;
-}
 
         
         .contenaire{
@@ -98,10 +66,7 @@ p, label{
         padding: 1rem;
         text-align: center;
     }
-    form{
-        display: flex;
-        flex-direction: column;
-    }
+
 
     @media screen and (max-width: 740px) {
         .contenaire{
@@ -109,17 +74,21 @@ p, label{
             align-items: center;
             justify-content: center;
         }
-        div, form{
+        div{
             display: flex;
             flex-direction: column;
             align-items: center;
             justify-content: center;
         }
     }
-    p, a, h5, h4, h3, label{
+    p, h5{
         color: white;
     }
     .black{
         color: black;
+    }
+
+    .pFeedback{
+        max-width: 350px;
     }
 </style>

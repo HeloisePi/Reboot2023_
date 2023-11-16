@@ -4,29 +4,36 @@
     import Theme from "./component/Theme.svelte";
 	import Suggestion from "./component/Suggestion.svelte";
 </script>
+
+<svelte:head>
+	<title>Home</title>
+	<meta name="description" content="Svelte demo app" />
+</svelte:head>
+
+
 <Hero title="Frynge"/>
 <section>
     <p class="textDescription">Bienvenue sur Frynge, la plateforme <span class="bold"> bons plans </span> qui t’aide à entrer dans une démarche de <span class="bold"> décroissance</span>. Tutos, activités, astuces, bons plans… fais le plein d’idées à petit budget.</p>
     <TitleH2>Bons plans</TitleH2>
     <div class="BoutonsTheme">
-        <Theme src="../sedidivertir" logo="/images/logo/hobbies.svg" > Se<br> Divertir</Theme>
-        <Theme src="../sedivertir" logo="/images/logo/clothes.svg" >Se<br> vêtir</Theme>
+        <Theme src="../sedivertir" logo="/images/logo/hobbies.svg" > Se<br> Divertir</Theme>
+        <Theme src="../sevetir" logo="/images/logo/clothes.svg" >Se<br> vêtir</Theme>
         <Theme src="../senourrir" logo="/images/logo/food.svg" >Se<br> nourrir</Theme>
         <Theme src="../divers" logo="/images/logo/divers.svg" >Divers</Theme>
     </div>
     <TitleH2>Nos vidéos</TitleH2>
     <div class="videos">
-        <iframe src="https://youtube.com/embed/fTdFc_MfD7Y?si=3RqXL7fAtPuf3lV5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-       <iframe src="https://youtube.com/embed/HnD_0sSsEas?si=7bNNWkt6cDfzNv0O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        <iframe src="https://youtube.com/embed/_UhNp9cU87o?si=uc8Ly51gTilccDqf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe src="https://youtube.com/embed/B4F4y73JQh4?si=22ig2V9KQgsZZ079" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <!--<iframe src="https://youtube.com/embed/HnD_0sSsEas?si=7bNNWkt6cDfzNv0O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe src="https://youtube.com/embed/_UhNp9cU87o?si=uc8Ly51gTilccDqf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
     </div>
     <TitleH2>Suggestion</TitleH2>
     <div class="allSuggestion">
-        <Suggestion srcImg="/images/sugestion/1.webp" title="Izïa">Depuis la sortie de son cinquième album La vitesse, Izïa la rockeuse au cœur tendre, multiplie les dates telle une tornade et se donne corps et âme à son public.</Suggestion>
-        <Suggestion srcImg="/images/sugestion/2.webp" title="Boutique éphémère vintage">Nouveau rendez-vous du marché des Causettes avec des friperies de dingue, dans le lieu atypique du théâtre de la Rousselle!<br>
+        <Suggestion src="https://openagenda.com/carte-jeune-bordeaux-metropole/events/izia-902066" srcImg="/images/sugestion/1.webp" title="Izïa">Depuis la sortie de son cinquième album La vitesse, Izïa la rockeuse au cœur tendre, multiplie les dates telle une tornade et se donne corps et âme à son public.</Suggestion>
+        <Suggestion src="https://www.eventbrite.fr/e/billets-boutique-ephemere-vintage-758067108127?aff=ebdssbdestsearch&_gl=1*1q18vh9*_up*MQ..*_ga*MTM1ODA3NDMxMy4xNzAwMDY3MTI4*_ga_TQVES5V6SH*MTcwMDA2NzEyNy4xLjAuMTcwMDA2NzEyNy4wLjAuMA.."  srcImg="/images/sugestion/2.webp" title="Boutique éphémère vintage">Nouveau rendez-vous du marché des Causettes avec des friperies de dingue, dans le lieu atypique du théâtre de la Rousselle!<br>
             Sam. 18 nov. 2023 11:00 - dim. 19 nov. 2023 19:00 CET<br>
             77 Rue de la Rousselle 33000 Bordeaux</Suggestion>
-        <Suggestion srcImg="/images/sugestion/3.webp" title="Afterwork Vins du Beaujolais">Nous proposons deux sessions par afterwork, la première à 18h30 et la seconde à 20h30, afin de correspondre au mieux à vos agendas.<br>
+        <Suggestion src="https://openagenda.com/carte-jeune-bordeaux-metropole/events/afterwork-vins-du-beaujolais"  srcImg="/images/sugestion/3.webp" title="Afterwork Vins du Beaujolais">Nous proposons deux sessions par afterwork, la première à 18h30 et la seconde à 20h30, afin de correspondre au mieux à vos agendas.<br>
             Animé par : Cécile Bossan-Redon <br>
             En partenariat avec : Inter Beaujolais <br></Suggestion>
     </div>
@@ -34,6 +41,7 @@
 </section>
 
 <style>
+    
     .textDescription{
         margin: 0 auto;
         margin-bottom: 5rem;

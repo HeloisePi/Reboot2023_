@@ -1,17 +1,18 @@
 <script>
     export let srcImg;
     export let title;
+    export let src;
 </script>
 
 
-<div class="contenaire">
+<a class="contenaire" href="{src}">
     <img class="illustration" src="{srcImg}" alt="suggestion">
     <div class="titleDescription">
         <h3 class="bold">{title}</h3>
         <p><slot></slot></p>
     </div>
     <img class="arrow" src="/images/logo/arrow.svg" alt="en savoir plus">
-</div>
+</a>
 
 <style>
     .contenaire{
@@ -27,6 +28,7 @@
              -13px -13px 26px #ffffff;
              overflow: hidden;
         max-height: 200px;
+        cursor: pointer;
     }
     .contenaire:hover{
         transform: scale(105%);

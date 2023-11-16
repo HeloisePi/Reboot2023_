@@ -48,7 +48,6 @@ onMount(() => {
         <a class="close-menu" href="#"><p>Se nourir</p></a>
         <a class="close-menu" href="#"><p>Divers</p></a>
         <a class="close-menu" href="#"><p>À propos</p></a>
-        <a class ="addTuto close-menu" href="#"><p>Ajouter un tuto</p></a>
     </div>
 </header>
 <div class="behind"></div>
@@ -58,15 +57,6 @@ onMount(() => {
         width: 100vw;
         height: 70px;
         top: -1;
-    }
-
-  .addTuto{
-        background-color: #21864F;
-        padding: 5px;
-        padding-left: 10px;
-        padding-right: 10px;
-        border-radius: 10px;
-        color: white;
     }
 
     a{
