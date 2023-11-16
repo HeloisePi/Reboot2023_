@@ -8,8 +8,7 @@
 
 <HeroTheme
 	srcImg="/images/logo/scisor.svg"
-	title="Retoucher ses vêtements :
-Lieux et Tutos"
+	title="Retoucher ses vêtements"
 ></HeroTheme>
 <section>
 	<Contenaire><h2 class="bold">Réparer ses vêtements, la mode intemporelle !</h2>
