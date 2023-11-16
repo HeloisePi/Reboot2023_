@@ -29,11 +29,11 @@
     </div>
     <TitleH2>Suggestions</TitleH2>
     <div class="allSuggestion">
-        <Suggestion src="" srcImg="/images/logo/scisor.svg" title="Retoucher ses vêtements : Lieux et Tutos">Plutôt que de balancer tes fringues, pourquoi pas les réparer ?
+        <Suggestion src="../sevetir/retouches" srcImg="/images/logo/scisor.svg" title="Retoucher ses vêtements : Lieux et Tutos">Plutôt que de balancer tes fringues, pourquoi pas les réparer ?
             On sait tous que la mode va plus vite que la lumière, mais au lieu de suivre le rythme, pourquoi ne pas ralentir et donner une seconde vie à ton jean préféré? Un coup de couture par-ci, un remplacement de bouton par-là, et bam le tour est joué.</Suggestion>
-        <Suggestion src="" srcImg="/images/logo/foodContainer.svg" title="Comment bien conserver ses aliments">Pour éviter que tes courses ne se périment, faut devenir un pro du stockage. 
+        <Suggestion src="../senourrir/conservation" srcImg="/images/logo/foodContainer.svg" title="Comment bien conserver ses aliments">Pour éviter que tes courses ne se périment, faut devenir un pro du stockage. 
             Mets-toi dans le mood du frigo bien organisé, des sachets hermétiques et des boîtes étanches. La fraîcheur, c'est ton nouveau mantra.</Suggestion>
-        <Suggestion src=""  srcImg="/images/logo/light.svg" title="Étu’Ré quoi ?">C’est une association bordelaise présente sur le Campus Universitaire de Bordeaux, Pessac, Talence et Gradignan. Elle réunit plus de 3 000 membres et propose des activités pour créer ses propres vêtements, réparer ses objets ou fabriquer ses produits ménagers en respectant la planète.</Suggestion>
+        <Suggestion src="../sedivertir/eturecup"  srcImg="/images/logo/light.svg" title="Étu’Ré quoi ?">C’est une association bordelaise présente sur le Campus Universitaire de Bordeaux, Pessac, Talence et Gradignan. Elle réunit plus de 3 000 membres et propose des activités pour créer ses propres vêtements, réparer ses objets ou fabriquer ses produits ménagers en respectant la planète.</Suggestion>
     </div>
 
 </section>
