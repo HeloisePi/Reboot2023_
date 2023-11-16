@@ -43,17 +43,24 @@ Lieux et Tutos"></HeroTheme>
     <Contenaire><p>L’envie de retoucher te vêtements te prends mais l’idée de laisser faire des retoucheurs te gêne ? Pourquoi ne pas apprendre sois même a retoucher tes vêtements dans ce cas ? Grâce a ces tutos apprends toi même a réparer tes vêtements ! Et n’oublie pas que rien ne t’empêche d’y arriver par toi même !  Alors, la prochaine fois que ton t-shirt préféré décide de te lâcher, attrape une aiguille, mets ta playlist préférée en fond, et fais-le revivre.
 
     </p></Contenaire>
-
-    <h3>Les boutons</h3>
-    <iframe src="https://www.youtube.com/embed/e-zF07gzJcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <iframe src="https://www.youtube.com/embed/watch?v=EftKvvnUxfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <h3>Les fermetures éclair</h3>
-    <iframe src="https://www.youtube.com/embed/6bnQMZ9aYP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <iframe src="https://www.youtube.com/embed/IcmGkrGA3eY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <h3>Les Trous</h3>
-    <iframe src="https://www.youtube.com/embed/gRIyexpw8qQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <iframe src="https://www.youtube.com/embed/KfUvgLW5HbE?si=m8oot3wUMF7Xk0rP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+    <div class="videos"> 
+        <h3>Les boutons</h3>
+        <div class="">
+            <iframe src="https://www.youtube.com/embed/e-zF07gzJcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/watch?v=EftKvvnUxfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        
+        <h3>Les fermetures éclair</h3>
+        <div class="">
+            <iframe src="https://www.youtube.com/embed/6bnQMZ9aYP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/IcmGkrGA3eY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <h3>Les Trous</h3>
+        <div class="">
+            <iframe src="https://www.youtube.com/embed/gRIyexpw8qQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/KfUvgLW5HbE?si=m8oot3wUMF7Xk0rP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+    </div>
     <div class="">
 
         <TitleH2>Un autre article susceptible de vous intéresser</TitleH2>
@@ -67,6 +74,13 @@ Lieux et Tutos"></HeroTheme>
 
 
 <style>
+    .videos{
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
     section{
         width: 100vw;
         padding-left: 5rem;
@@ -94,5 +108,5 @@ Lieux et Tutos"></HeroTheme>
         margin-bottom: 3rem;
         margin-top: 1rem;
     }
-    
+
 </style>

@@ -5,10 +5,10 @@
     <a href="../../"><img src="/favicon.svg" alt="logo home"></a>
     <div class="link">
         <a href="../sedivertir"><p>Se divertir</p></a>
-        <a href="#"><p>Se vêtir</p></a>
+        <a href="../sevetir"><p>Se vêtir</p></a>
         <a href="../senourrir"><p>Se nourir</p></a>
-        <a href="#"><p>Divers</p></a>
-        <a href="#"><p>À propos</p></a>
+        <a href="../divers"><p>Divers</p></a>
+        <a href="../a_propos"><p>À propos</p></a>
     </div>
 </header>
 

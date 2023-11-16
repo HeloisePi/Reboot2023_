@@ -43,11 +43,11 @@ onMount(() => {
       
     </div>
     <div class="slide close">
-      <a class="close-menu"href="#"><p>Se divertir</p></a>
-        <a class="close-menu"href="#"><p>Se vêtir</p></a>
-        <a class="close-menu" href="#"><p>Se nourir</p></a>
-        <a class="close-menu" href="#"><p>Divers</p></a>
-        <a class="close-menu" href="#"><p>À propos</p></a>
+      <a class="close-menu"href="../sedivertir"><p>Se divertir</p></a>
+        <a class="close-menu"href="../sevetir"><p>Se vêtir</p></a>
+        <a class="close-menu" href="../senourrir"><p>Se nourir</p></a>
+        <a class="close-menu" href="../divers"><p>Divers</p></a>
+        <a class="close-menu" href="../a_propos"><p>À propos</p></a>
     </div>
 </header>
 <div class="behind"></div>
