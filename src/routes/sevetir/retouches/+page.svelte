@@ -38,13 +38,13 @@
 		></RetoucheVetement>
 		<RetoucheVetement
 			title="Bordeaux Retouches"
-			horaire="Mardi à vendredi 14:00–19:00        "
+			horaire="Mardi à vendredi 14:00–19:00"
 			map="83 Rue Georges Bonnac, 33000 Bordeaux"
 			phone="+33 6 01 02 84 48"
 		></RetoucheVetement>
 		<RetoucheVetement
 			title="Au Premier Fil"
-			horaire="Mardi à samedi 10:00–14:000"
+			horaire="Mardi à samedi 10:00–14:00"
 			map="42 Rue de Labrede, 33800 Bordeaux"
 			phone="+33 5 56 78 40 63"
 		></RetoucheVetement>

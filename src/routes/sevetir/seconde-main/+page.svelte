@@ -36,8 +36,7 @@ Main"></HeroTheme>
         <TitleH2>Un autre article susceptible de vous intéresser</TitleH2>
         <div class="allButton">
             
-            <ThemeButton src="../sevetir/retouches" logo="/images/logo/scisor.svg">Retoucher ses vêtements :<br><br>
-                Lieux et Tutos</ThemeButton>
+            <ThemeButton src="../sevetir/retouches" logo="/images/logo/scisor.svg">Retoucher ses vêtements</ThemeButton>
         </div>
     </div>
 
