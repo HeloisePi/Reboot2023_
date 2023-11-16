@@ -38,10 +38,11 @@
         
     </div>
     <div class="end">
-        <p class="black">© Frynge - Tous droits réservés - Mentions Légales</p>
+        <p class="black">© Frynge - Tous droits réservés - </p> <a href="../mentionslegales">Mentions Légales</a>
     </div>
 </footer>
     
+
     <style>
 h5{
     margin-bottom: 64px;

@@ -1,6 +1,5 @@
 <script>
     export let logo;
-    export let title;
     export let src;
 </script>
 
