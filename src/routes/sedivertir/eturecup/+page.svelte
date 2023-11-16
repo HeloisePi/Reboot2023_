@@ -7,9 +7,11 @@
 <section>
 <Contenaire><p>Étu’Récup. <br>
 
-    C’est une association bordelaise présente sur le Campus Universitaire de Bordeaux, Pessac, Talence et Gradignan. Elle réunit plus de 3 000 membres et propose des activités pour créer ses propres vêtements, réparer ses objets ou fabriquer ses produits ménagers en respectant la planète. <br>
+    C’est une association bordelaise présente sur le Campus Universitaire de Bordeaux, 
+    Pessac, Talence et Gradignan. Elle réunit plus de 3 000 membres et propose des activités pour créer ses propres vêtements, réparer ses objets ou fabriquer ses produits ménagers en respectant la planète. <br>
     
-    En bref, Étu’Récup, c’est tout simplement partager des valeurs comme l’entraide, la lutte contre la précarité et l’isolement social, le respect de la planète et des autres. En plus de ça, il y a des événements plutôt sympas. <br>
+    En bref, Étu’Récup, c’est tout simplement partager des valeurs comme l’entraide, 
+    la lutte contre la précarité et l’isolement social, le respect de la planète et des autres. En plus de ça, il y a des événements plutôt sympas. <br>
     
     Par exemple, vendredi 24 novembre (je sais, c’est bientôt), les bénévoles organisent une soirée avec buffet, blind test, quiz, jeux de kermesse… le tout dans une démarche éco-responsable et anti-gaspi. <br>
     Par exemple, les jeux de kermesse, ils sont fabriqués qu’avec du matériel de récup’. <br>
