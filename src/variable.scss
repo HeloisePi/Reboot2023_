@@ -56,6 +56,9 @@ a{
     font-family: 'HelveticaNeueInterface_thin', 'Courier New';    
    color: black; 
 }
+a:hover{
+    text-decoration: underline;
+}
 
 .bold{
     font-family: 'HelveticaNeueInterface' ;
