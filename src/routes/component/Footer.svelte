@@ -30,7 +30,7 @@
 
     </div>
     <div class="end">
-        <p class="black">© Frynge - Tous droits réservés -  <a href="../mentionslegales">Mentions Légales</a></p>
+        <p class="black">© Frynge - Tous droits réservés -  <a href="../mentionslegales" class="mention">Mentions Légales</a></p>
     </div>
 </footer>
     
@@ -61,9 +61,15 @@ p{
     }
 
     a:hover{
-        color: #FFFDF7;
         text-decoration: underline;
         text-underline-offset: 0.3em;
+        color:#FFFDF7;
+    }
+
+    .mention:hover{
+        text-decoration: underline;
+        text-underline-offset: 0.3em;
+        color:#303030;
     }
 
 
@@ -83,7 +89,8 @@ p{
     p, h5{
         color: #FFFDF7;
     }
+
     .black{
-        color: black;
+        color: #303030;
     }
 </style>
