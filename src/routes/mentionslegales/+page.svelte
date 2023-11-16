@@ -14,7 +14,7 @@
     <TitleH2>Conception et Réalisation</TitleH2>
     <Name name="Phuc NGUYEN" adresse="1 rue Jacques Ellul, 33800 Bordeaux" mail="dang-thien-phuc.nguyen@mmibordeaux.com" />
     <Name name="Eve TISSOT" adresse="1 rue Jacques Ellul, 33800 Bordeaux" mail="eve.tissot@mmibordeaux.com" />
-    <Name name="Naelle LEMINICIER" adresse="1 rue Jacques Ellul, 33800 Bordeaux" mail="naelle.leminicier@mmibordeaux.com" />
+    <Name name="Naëlle LEMENNICIER" adresse="1 rue Jacques Ellul, 33800 Bordeaux" mail="naelle.lemennicier@mmibordeaux.com" />
     <Name name="Dina RAKOTONARIVO" adresse="1 rue Jacques Ellul, 33800 Bordeaux" mail="dina.rakotonarivo@mmibordeaux.com" />
     <Name name="Alexis JUHEL" adresse="1 rue Jacques Ellul, 33800 Bordeaux" mail="alexis.juhel@mmibordeaux.com" />
     <Name name="Léa LAFAYE" adresse="1 rue Jacques Ellul, 33800 Bordeaux" mail="lea.lafaye@mmibordeaux.com" />
