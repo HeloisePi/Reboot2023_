@@ -26,7 +26,7 @@
 	<div class="">
 		<TitleH2>Nos Articles</TitleH2>
 		<div class="allButton">
-			<ThemeButton src="https://openagenda.com/carte-jeune-bordeaux-metropole/events/cine-petitdej-mon-voisin-totoro" logo="/images/logo/cocktail.svg"
+			<ThemeButton src="../sedivertir/boireunverre" logo="/images/logo/cocktail.svg"
 				>Schlouk map, pour boire des verres sans se ruiner !</ThemeButton
 			>
 			<ThemeButton src="../sedivertir/eturecup" logo="/images/logo/light.svg"
@@ -34,8 +34,8 @@
 			>
 		</div>
 	</div>
-	<Suggestion src="../sevetir/retouches" srcImg="/images/suggestions/1.png" title="Ciné Petit’Déj – Mon Voisin Totoro">Séance précédée d’un petit déjeuner offert, en partenariat avec la boulangerie Maison Valé. Replongez dans le classique de Miyazaki avant de découvrir à La Lanterne son nouveau film.</Suggestion>
-	<Suggestion src="#" srcImg="/images/suggestions/2.png" title="Les Veilleurs de Nuit">Un court-métrage de Christophe Brachet et des oeuvres de Richard Giacobetti seront le point de départ d'un échange poétique entre les deux artistes et la journaliste et animatrice Sabine Quindou.</Suggestion>
+	<Suggestion src="https://openagenda.com/carte-jeune-bordeaux-metropole/events/cine-petitdej-mon-voisin-totoro" srcImg="/images/suggestions/1.png" title="Ciné Petit’Déj – Mon Voisin Totoro">Séance précédée d’un petit déjeuner offert, en partenariat avec la boulangerie Maison Valé. Replongez dans le classique de Miyazaki avant de découvrir à La Lanterne son nouveau film.</Suggestion>
+	<Suggestion src="https://openagenda.com/relache-13/events/les-veilleurs-de-nuit?sharemodal=1" srcImg="/images/suggestions/2.png" title="Les Veilleurs de Nuit">Un court-métrage de Christophe Brachet et des oeuvres de Richard Giacobetti seront le point de départ d'un échange poétique entre les deux artistes et la journaliste et animatrice Sabine Quindou.</Suggestion>
 </section>
 
 <style>
