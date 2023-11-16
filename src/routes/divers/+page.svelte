@@ -12,7 +12,7 @@
         particuliers émettent 71,6 millions de tonnes équivalent CO2”.</span> C’est pourquoi se déplacer proprement est un 
         enjeu essentiel, de plus, cela permet de faire des économies.
         En 2020, le réseau de tramway de Bordeaux est positionné en tête des réseaux des grandes villes. 
-        Toutefois, il faut garder en tête que le tram n’est pas la seule alternative. </p></Contenaire>
+        Toutefois, <span class="bold">il faut garder en tête que le tram n’est pas la seule alternative.</span> </p></Contenaire>
         <div class="link">
             
             <a href="https://boutique.infotbm.com/products/34 " class="help">
