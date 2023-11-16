@@ -24,7 +24,7 @@
     rejoindre une communauté</span>. Tu rencontres des gens, tu participes à des activités variées 
     et du coup, tu t’ouvres à des choses auxquelles tu n’aurais peut-être jamais pensées ! </p>
     
-    <p>Je te laisse le lien de leur site <a href="http://eturecup.org">juste ici </a>;)</p>
+    <p>Je te laisse le lien de leur site <a href="http://eturecup.org">juste ici </a> ;) </p>
     
     </Contenaire>
 </section>
@@ -46,4 +46,14 @@
         max-width: 900px;
         margin-bottom: 3vh;
     }
+
+	a {
+		color: #21864f;
+		font-weight: bold;
+	}
+
+	a:hover {
+		text-decoration: underline;
+		text-underline-offset: 0.4vh;
+	}
 </style>

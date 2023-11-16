@@ -92,5 +92,6 @@ p{
 
     .black{
         color: #303030;
+        margin: 0;
     }
 </style>
