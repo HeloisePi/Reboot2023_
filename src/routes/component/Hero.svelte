@@ -33,7 +33,7 @@
         position: absolute;
     z-index: 2;
     margin-left: 50%;
-    transform: translate(-50%, 24vw);
+    transform: translate(-50%, 23vw);
     color: white;
 
 
