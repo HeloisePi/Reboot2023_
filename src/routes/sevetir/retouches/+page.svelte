@@ -12,15 +12,16 @@
 ></HeroTheme>
 <section>
 	<Contenaire><h2 class="bold">Réparer ses vêtements, la mode intemporelle !</h2>
-		<p>C'est le moment de secouer un peu le game de la mode.</p>
-		<p>Plutôt que de balancer tes fringues, pourquoi pas les réparer ?</p>
-		<p>
+		<p>C'est le moment de secouer un peu le game de la mode.
+		Plutôt que de balancer tes fringues, pourquoi pas les réparer ?
+		
 			On sait tous que la mode va plus vite que la lumière, mais au lieu de suivre le rythme,
 			pourquoi ne pas ralentir et donner une seconde vie à ton jean préféré? Un coup de couture
 			par-ci, un remplacement de bouton par-là, et bam le tour est joué.
-		</p>
-		<p>Réparer, c'est pas juste économique, c'est un geste rebelle contre la surconsommation.</p>
-		<p><span class="bold">Retrouve juste ici quelques retoucheurs sur Bordeaux !</span></p>
+		
+		Réparer, c'est pas juste économique, c'est un geste rebelle contre la surconsommation.
+		<span class="bold">Retrouve juste ici quelques retoucheurs sur Bordeaux !</span> 
+	</p>
 	</Contenaire>
 	<div class="allContact">
 		<RetoucheVetement
@@ -122,6 +123,9 @@
 </section>
 
 <style>
+	h2{
+		margin-bottom: 2rem;
+	}
 	.videos {
 		margin: 0 auto;
 		display: flex;
