@@ -7,21 +7,19 @@
 conserver ses 
 aliments"></HeroTheme>
 <section>
-<Contenaire><p>Parlons peu, parlons bien, parlons stockage alimentaire.</p>
+<Contenaire><p>Parlons peu, parlons bien, parlons stockage alimentaire.
 
 
-   <p> Pour éviter que tes courses ne se périment, faut devenir un pro du stockage. </p>
-   <p>Mets-toi dans le mood du frigo bien organisé, des sachets hermétiques et des boîtes étanches. 
-   <span class="bold">La fraîcheur, c'est ton nouveau mantra.</span></p>
+ Pour éviter que tes courses ne se périment, faut devenir un pro du stockage. 
+Mets-toi dans le mood du frigo bien organisé, des sachets hermétiques et des boîtes étanches. 
+   <span class="bold">La fraîcheur, c'est ton nouveau mantra.</span>
     
-    
-    <p>Les légumes et les fruits sont les plus compliqués, mais une fois que tu maîtrises l’art de la conservation,
-     tu peux garder ton concombre et tes tomates fraîches plus longtemps que tu ne le pensais.</p>
-    <p>Ah, et parlons des restes. Ne les laisse pas moisir dans le coin du frigo. 
+Les légumes et les fruits sont les plus compliqués, mais une fois que tu maîtrises l’art de la conservation,
+     tu peux garder ton concombre et tes tomates fraîches plus longtemps que tu ne le pensais.
+Ah, et parlons des restes. Ne les laisse pas moisir dans le coin du frigo. 
     Mets-les dans des récipients sympas, joue au Tetris dans ton congélo, et laisse la magie 
-    de la conservation opérer.</p>
-
-    <p>Pour en savoir plus, <a href="https://cuisine-addict.com/comment-bien-conserver-ses-aliments-au-refrigerateur/">clique ici</a>.</p>
+    de la conservation opérer.
+Pour en savoir plus, <a href="https://cuisine-addict.com/comment-bien-conserver-ses-aliments-au-refrigerateur/">clique ici</a>.</p>
 
     
     </Contenaire>
