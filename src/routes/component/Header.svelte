@@ -8,7 +8,7 @@
         <a href="../sevetir"><p>Se vêtir</p></a>
         <a href="../senourrir"><p>Se nourrir</p></a>
         <a href="../divers"><p>Divers</p></a>
-        <a href="../qui-sommes-nous"><p>Qui sommes nous ?</p></a>
+        <a href="../qui-sommes-nous"><p>Qui sommes-nous ?</p></a>
     </div>
 </header>
 
