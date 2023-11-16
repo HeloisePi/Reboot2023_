@@ -27,7 +27,7 @@
     <Suggestion src="#" srcImg="/images/suggestions/3.png" title="NRV : des pépites de toute l’Europe">Une chose ressort lorsqu’on rentre chez Steak Fripes : la gentillesse et la bienveillance de ses propriétaires, qui vous aiderons à dénicher la perle rare. 
         Il y a de tout : costumes d’époque, accessoires en folies… Quoi que vous cherchiez, vous le trouverez au 62 Rue du Mirail, 33800 Bordeaux !</Suggestion>
 
-        <Suggestion src="#" srcImg="/images/suggestions/3.png" title="Steak Fripes : la friperie pour toutes les envies">Une chose ressort lorsqu’on rentre chez Steak Fripes : la gentillesse et la bienveillance de ses propriétaires, qui vous aiderons à dénicher la perle rare cachée rien que pour vous dans leur boutique. Par chez Steak Fripes, il y a de tout, mais alors vraiment de tout : costumes d’époque, robes des années 20 à 60, accessoires en folies… Quoi que vous cherchiez, vous le trouverez !</Suggestion>
+        <Suggestion src="#" srcImg="/images/suggestions/4.png" title="Steak Fripes : la friperie pour toutes les envies">Une chose ressort lorsqu’on rentre chez Steak Fripes : la gentillesse et la bienveillance de ses propriétaires, qui vous aiderons à dénicher la perle rare cachée rien que pour vous dans leur boutique. Par chez Steak Fripes, il y a de tout, mais alors vraiment de tout : costumes d’époque, robes des années 20 à 60, accessoires en folies… Quoi que vous cherchiez, vous le trouverez !</Suggestion>
 </section>
 
 
