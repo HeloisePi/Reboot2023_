@@ -8,9 +8,9 @@
             <h5>
                 À propros
             </h5>
-            <p>
+            <a href="../qui-sommes-nous">
                 Qui sommes-nous
-            </p>
+            </a>
         </div>
         <div class="">
             <h5>Plan du site</h5>
