@@ -6,7 +6,7 @@
 
 <HeroTheme srcImg="/images/logo/who.svg" title="Qui sommes-nous ?" ></HeroTheme>
 <section>
-	<TitleH2>Frynge</TitleH2>
+	<h2>Frynge</h2>
 	<p>
 		Frynge, c’est une équipe d’étudiants dans les métiers du web. Sensibilisés à la cause
 		environnementale, on a eu à cœur de partager des tips du quotidien pour entrer dans une démarche
@@ -150,4 +150,11 @@
 		text-decoration: underline;
 		text-underline-offset: 0.4vh;
 	}
+	h2{
+        margin-top: 3rem;
+        color: #21864F;
+        padding-top: 2rem;
+        text-transform: uppercase;
+        margin-bottom: 3rem;
+}
 </style>
