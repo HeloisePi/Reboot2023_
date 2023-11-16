@@ -1,10 +1,10 @@
 <script>
-	import Hero from '../component/Hero.svelte';
+	import HeroTheme from '../component/HeroTheme.svelte';
 	import TitleH2 from '../component/TitleH2.svelte';
 	import Name from '../component/Name.svelte';
 </script>
 
-<Hero title="Qui sommes-nous ?" />
+<HeroTheme srcImg="/images/logo/who.svg" title="Qui sommes-nous ?" ></HeroTheme>
 <section>
 	<TitleH2>Frynge</TitleH2>
 	<p>
