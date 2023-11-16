@@ -4,10 +4,8 @@
 
 <style>
     div{
-        border-radius: 50px;
         background: white;
-        box-shadow:  20px 20px 60px #bebebe,
-             -20px -20px 60px #ffffff;
+        border-radius: 10px;
             display: flex;
             flex-direction: column;
             justify-content: center;
