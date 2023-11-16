@@ -32,6 +32,12 @@
         gap: 5rem;
         padding-bottom: 5rem;
     }
+    @media screen and (max-width: 450px) {
+        section{
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    }
     h2{
         margin-bottom: 2rem;
     }

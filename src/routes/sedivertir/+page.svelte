@@ -46,6 +46,12 @@
 		gap: 5rem;
 		padding-bottom: 5rem;
 	}
+	@media screen and (max-width: 450px) {
+        section{
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    }
 
     p {
         margin-bottom: 3vh;

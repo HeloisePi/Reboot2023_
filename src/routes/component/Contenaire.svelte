@@ -17,7 +17,20 @@
             padding-bottom: 2rem;
             margin-top: 5rem;
             margin-bottom: 5rem;
+            max-width: 100%;
+            height: fit-content;
 
+    }
+
+    @media screen and (max-width: 400px) {
+        div{
+            box-shadow: none;
+        }
+    }
+    @media screen and (max-width: 450px) {
+        div{
+        padding: 0rem;
+    }
     }
 
 
