@@ -29,7 +29,7 @@
     </div>
     <TitleH2>Suggestions</TitleH2>
     <div class="allSuggestion">
-        <Suggestion src="../sevetir/retouches" srcImg="/images/logo/scisor.svg" title="Retoucher ses vêtements : Lieux et Tutos">Plutôt que de balancer tes fringues, pourquoi pas les réparer ?
+        <Suggestion src="../sevetir/retouches" srcImg="/images/logo/scisor.svg" title="Retoucher ses vêtements">Plutôt que de balancer tes fringues, pourquoi pas les réparer ?
             On sait tous que la mode va plus vite que la lumière, mais au lieu de suivre le rythme, pourquoi ne pas ralentir et donner une seconde vie à ton jean préféré? Un coup de couture par-ci, un remplacement de bouton par-là, et bam le tour est joué.</Suggestion>
         <Suggestion src="../senourrir/conservation" srcImg="/images/logo/foodContainer.svg" title="Comment bien conserver ses aliments">Pour éviter que tes courses ne se périment, faut devenir un pro du stockage. 
             Mets-toi dans le mood du frigo bien organisé, des sachets hermétiques et des boîtes étanches. La fraîcheur, c'est ton nouveau mantra.</Suggestion>
