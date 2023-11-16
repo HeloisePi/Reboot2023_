@@ -25,6 +25,6 @@
         width: 10rem;
     }
     h2{
-        letter-spacing: 10px;
+        letter-spacing: 2px;
     }
 </style>
