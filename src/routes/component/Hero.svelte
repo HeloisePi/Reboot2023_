@@ -9,10 +9,10 @@
 
 <style>
     .blur{
-        transform: translate(-50%, -45vw);
+        transform: translate(-50%, -36vw);
         margin-left:50% ;
         width: 70vw;
-        height: 35vw;
+        height: 20vw;
         -webkit-filter: blur(5px);
         -moz-filter: blur(5px);
         -o-filter: blur(5px);
