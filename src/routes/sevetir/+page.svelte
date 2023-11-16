@@ -14,8 +14,7 @@
         <TitleH2>Nos Articles</TitleH2>
         <div class="allButton">
             
-            <ThemeButton src="../sevetir/retouches" logo="/images/logo/scisor.svg">Retoucher ses vêtements :<br><br>
-                Lieux et Tutos</ThemeButton>
+            <ThemeButton src="../sevetir/retouches" logo="/images/logo/scisor.svg">Retoucher ses vêtements</ThemeButton>
             <ThemeButton  src="../sevetir/seconde-main" logo="/images/logo/eco.svg">L’esprit “Seconde main”</ThemeButton>
         </div>
     </div>
