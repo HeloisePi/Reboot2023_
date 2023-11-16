@@ -3,7 +3,7 @@
 import HeroTheme from "../../component/HeroTheme.svelte";
 </script>
 
-<HeroTheme srcImg="/images/logo/cocktail.svg" title="Schlouk map, pour boire des verres sans se ruiner !"></HeroTheme>
+<HeroTheme srcImg="/images/logo/cocktail.svg" title="Boire sans se ruiner !"></HeroTheme>
 <section>
 <Contenaire><p>Est-ce que toi aussi t’aimes aller boire des verres avec tes potes, mais tu vas toujours dans le même bar parce que soit la pinte n'est pas chère, soit la terrasse est grande, soit tu ne connais pas les autres bars ? </p>
  
