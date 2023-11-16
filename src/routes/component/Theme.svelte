@@ -26,6 +26,11 @@
         transition: ease-in  500ms;
         cursor: pointer;
     }
+    @media screen and (max-width: 450px) {
+        a{
+            width: 200px;
+        }
+    }
     a:hover{
         border-radius: 38px;
         background: #ffffff;

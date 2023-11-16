@@ -27,26 +27,26 @@
 			title="Rapid’couture"
 			horaire="Mercredi à vendredi 14:00–19:00"
 			map="53 Rue du Pas-Saint-Georges, 33000 Bordeaux"
-			phone="0984135827"
+			phone="+33 9 84 13 58 27"
 		></RetoucheVetement>
 		<RetoucheVetement
 			title="Top Retouches"
 			horaire="Mardi à jeudi 11:00–18:30 
         Vendredi et samedi 11:00–18:00"
 			map="4 Rue Castillon, 33000 Bordeaux"
-			phone="00556449490"
+			phone="+33 5 56 44 94 90"
 		></RetoucheVetement>
 		<RetoucheVetement
 			title="Bordeaux Retouches"
-			horaire="Mardi à vendredi 14:00–19:00        "
+			horaire="Mardi à vendredi 14:00–19:00"
 			map="83 Rue Georges Bonnac, 33000 Bordeaux"
-			phone="0601028448"
+			phone="+33 6 01 02 84 48"
 		></RetoucheVetement>
 		<RetoucheVetement
 			title="Au Premier Fil"
-			horaire="Mardi à samedi 10:00–14:000"
+			horaire="Mardi à samedi 10:00–14:00"
 			map="42 Rue de Labrede, 33800 Bordeaux"
-			phone="0556784063"
+			phone="+33 5 56 78 40 63"
 		></RetoucheVetement>
 	</div>
 	<TitleH2>Faire retoucher c’est bien ! Retoucher soi même, c’est mieux !</TitleH2>
