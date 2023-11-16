@@ -1,6 +1,7 @@
 <script>
     import Contenaire from "../component/Contenaire.svelte";
     import HeroTheme from "../component/HeroTheme.svelte";
+	import Suggestion from "../component/Suggestion.svelte";
     import ThemeButton from "../component/ThemeButton.svelte";
     import TitleH2 from "../component/TitleH2.svelte";
 </script>
@@ -25,6 +26,8 @@
         </div>
     </div>
 
+    <Suggestion src="https://www.instagram.com/p/BcVkbHeHz9d/?utm_source=ig_embed&ig_rid=703d78e0-90d7-4e57-88b2-34c15b0a8673" srcImg="/images/suggestions/5.png" title="Pizzeria Filippo | Pizzeria Filippo 11 Rue Beyssac">Situé dans le quartier des Capucins, cet italien n'a plus sa réputation à faire. Beaucoup disent qu'il s'agit des pizzas les plus généreuses de la ville. Nous on les adore ! Coup de cœur pour ces créations italiennes traditionnelles et soignées dans une salle cosy aux murs paprika et aux accents de pierre.</Suggestion>
+    <Suggestion src="https://www.instagram.com/p/BcVkbHeHz9d/?utm_source=ig_embed&ig_rid=703d78e0-90d7-4e57-88b2-34c15b0a8673" srcImg="/images/suggestions/6.png" title="Wok Way | Pizzeria Filippo 12 Rue Paul Louis Lande">Wok Way, du côté de la Grosse Cloche. Concoctés avec passion, et uniquement des produits triés sur le volet, le restaurant est un des meilleurs rapports qualité-prix pour toucher aux spécialités culinaires d'Asie. De la Chine, au Vietnam, en passant par la Corée ou la Thaïlande.</Suggestion>
 </section>
 
 

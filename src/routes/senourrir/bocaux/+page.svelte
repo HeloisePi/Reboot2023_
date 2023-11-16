@@ -20,7 +20,7 @@ bocaux"></HeroTheme>
         <a href="​https://www.adeline-cuisine.fr/comment-faire-des-conserves-et-bocaux-maison-astuces-et-conseils/">clique ici</a> !</p>
     ​
     
-    </p>
+
     
     </Contenaire>
 </section>
