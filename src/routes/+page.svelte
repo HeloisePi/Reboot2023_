@@ -24,8 +24,8 @@
     <TitleH2>Nos vidéos</TitleH2>
     <div class="videos">
         <iframe src="https://youtube.com/embed/B4F4y73JQh4?si=22ig2V9KQgsZZ079" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        <!--<iframe src="https://youtube.com/embed/HnD_0sSsEas?si=7bNNWkt6cDfzNv0O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        <iframe src="https://youtube.com/embed/_UhNp9cU87o?si=uc8Ly51gTilccDqf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+       <iframe src="https://youtube.com/embed/SSSlVP4Rs8E?si=sDecyJKFsrtunEte" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        
     </div>
     <TitleH2>Suggestions</TitleH2>
     <div class="allSuggestion">
