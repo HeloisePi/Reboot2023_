@@ -14,10 +14,10 @@
         <TitleH2>Nos Articles</TitleH2>
         <div class="allButton">
             
-            <ThemeButton src="../senourrir/boireunverre" logo="/images/logo/foodContainer.svg">Comment bien conserver ses aliments</ThemeButton>
-            <ThemeButton  src="../senourrir/eturecup" logo="/images/logo/food.svg">Se nourrir à faible impact et moindre frais</ThemeButton>
-            <ThemeButton  src="../senourrir/eturecup" logo="/images/logo/cold.svg">Règles de congélation</ThemeButton>
-            <ThemeButton  src="../senourrir/eturecup" logo="/images/logo/jar.svg">Comment faire des bocaux</ThemeButton>
+            <ThemeButton src="../senourrir/conservation" logo="/images/logo/foodContainer.svg">Comment bien conserver ses aliments</ThemeButton>
+            <ThemeButton  src="../senourrir/bien-manger" logo="/images/logo/food.svg">Se nourrir à faible impact et moindre frais</ThemeButton>
+            <ThemeButton  src="../senourrir/congelation" logo="/images/logo/cold.svg">Règles de congélation</ThemeButton>
+            <ThemeButton  src="../senourrir/bocaux" logo="/images/logo/jar.svg">Comment faire des bocaux</ThemeButton>
         </div>
     </div>
 
