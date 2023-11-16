@@ -16,19 +16,19 @@
         <div class="link">
             
             <a href="https://boutique.infotbm.com/products/34 " class="help">
-                <li>TBM englobe, en plus du tramway, le vélo électrique, le bus et bien d’autres services. Dans cette démarche, le service propose des tarifs préférentiels pour les étudiants, tu peux les retrouver ici. </li>
+                TBM englobe, en plus du tramway, le vélo électrique, le bus et bien d’autres services. Dans cette démarche, le service propose des tarifs préférentiels pour les étudiants, tu peux les retrouver ici. 
             </a>
             <a href="https://www.infotbm.com/fr/tarificationsolidaire" class="help">
-                <li>Il existe des remise pour les personnes en situation de précarité, pour en savoir plus, c’est ici !</li>
+                Il existe des remise pour les personnes en situation de précarité, pour en savoir plus, c’est ici !
             </a>
             <a href="https://www.economie.gouv.fr/particuliers/tout-savoir-covoiturage" class="help">
-                <li>Le covoiturage est une solution intelligente pour des trajets quotidiens réguliers ou des trajets plus, tu peux te renseigner ici !</li>
+                Le covoiturage est une solution intelligente pour des trajets quotidiens réguliers ou des trajets plus, tu peux te renseigner ici !
             </a>
             <a href="https://www.sncf-connect.com/app/catalogue/description/carte-avantage-jeune" class="help">
-                <li>Avec la SNCF, des tarifs réduits sont proposés aux étudiants et il est possible d’acheter une carte avantage jeune pour profiter de réduction toute l’année. Pour en savoir plus clique ici !</li>
+                Avec la SNCF, des tarifs réduits sont proposés aux étudiants et il est possible d’acheter une carte avantage jeune pour profiter de réduction toute l’année. Pour en savoir plus clique ici !
             </a>
             <a href="https://www.unairdebordeaux.fr/article/trottinettes-electriques-a-bordeaux/" class="help">
-                <li>Pour la trottinette électrique et les vélos, tu en sauras plus ici ! </li>
+                Pour la trottinette électrique et les vélos, tu en sauras plus ici ! 
             </a>
         </div>
 </section>
@@ -55,9 +55,9 @@
     }
     .help{
         max-width: 500px;
-        height: 300px;
+        max-height: 300px;
         border-radius: 50px;
-        border-radius: 50px;
+        border-radius: 10px;
         background: #ffffff;
         box-shadow:  20px 20px 60px #d9d9d9,
                     -20px -20px 60px #ffffff;
