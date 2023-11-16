@@ -44,6 +44,8 @@
         display: flex;
         gap: 2rem;
         flex-wrap: wrap;
+        justify-content: center;
+            align-items: center;
     }
     @media screen and (max-width: 880px) {
         section .allButton{
