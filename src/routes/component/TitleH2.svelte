@@ -7,7 +7,7 @@
 
 <style>
 h2{
-    border-top: 2px solid rgb(0, 0, 0);
+    border-top: 1px solid rgb(0, 0, 0);
     margin-top: 3rem;
     color: #21864F;
     padding-top: 2rem;
