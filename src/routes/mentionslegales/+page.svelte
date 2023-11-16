@@ -41,47 +41,6 @@
 </section> 
 
 <style>
-    
-    .textDescription{
-        margin: 0 auto;
-        margin-bottom: 5rem;
-        margin-top: 5rem;
-        width: 80%;
-        max-width: 800px;
-    }
-    .videos{
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
-        justify-items: center;
-        padding-bottom: 5rem;
-    }
-
-    @media screen and (max-width: 1250px) {
-        .videos{
-            grid-template-columns: 1fr 1fr;
-            row-gap: 2rem;
-        }
-    }
-    @media screen and (max-width: 922px) {
-        .videos{
-            grid-template-columns: 1fr;
-        }
-        section .BoutonsTheme{
-            grid-template-columns: 1fr 1fr;
-        }
-    }
-    @media screen and (max-width: 520px) {
-        .videos iframe{
-            width: 170px;
-            height: 300px;
-        }
-    }
-
-    iframe{
-        border-radius: 10px;
-        width: 270px;
-        height: 500px;
-    }
     section{
         width: 100vw;
         padding-left: 5rem;
@@ -93,59 +52,6 @@
         padding-right: 1rem;
     }
     }
-    .BoutonsTheme{
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr 1fr;
-        justify-items: center;
-
-        padding-bottom: 5rem;
-        margin-left: 50%;
-        transform: translateX(-50%);
-        width: 100vw;
-    }
-    @media screen and (max-width: 1180px) {
-        .BoutonsTheme{
-        grid-template-columns: 1fr 1fr 1fr;
-        row-gap: 1rem;
-        }
-    }
-    @media screen and (max-width: 606px) {
-        section .BoutonsTheme{
-            grid-template-columns: 1fr;
-            row-gap: 1rem;
-        }
-    }
-    @media screen and (max-width: 950px) {
-        section .allSuggestion{
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            justify-items: center;
-            gap: 1rem;
-        }
-        section .allSuggestion{
-            display: grid;
-            grid-template-columns: 1fr;
-            justify-items: center;
-            gap: 1rem;
-        }
-    }
-    @media screen and (max-width: 770px) {
-        section .allSuggestion{
-            display: grid;
-            grid-template-columns: 1fr;
-            justify-items: center;
-            gap: 1rem;
-        }
-    }
-    .allSuggestion{
-            display: flex;
-            flex-direction: column;
-            gap: 3rem;
-            margin-bottom: 5rem;
-        }
-
-
-
 
 
 </style>

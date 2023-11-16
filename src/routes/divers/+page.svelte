@@ -41,15 +41,8 @@
         gap: 5rem;
         padding-bottom: 5rem;
     }
-    h2{
-        margin-bottom: 2rem;
-    }
     li{
         margin-bottom: 0.5rem;
-    }
-    .allButton{
-        display: flex;
-        gap: 2rem;
     }
     .help{
         max-width: 500px;
