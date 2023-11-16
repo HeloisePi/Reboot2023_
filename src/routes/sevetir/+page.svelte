@@ -8,7 +8,11 @@
 
 <HeroTheme srcImg="/images/logo/clothes.svg" title="Se vêtir "></HeroTheme>
 <section>
-    <Contenaire><p>Ce n’est pas secret, l’industrie du textile est très gourmande en énergie et a un gros impact environnemental. Dans un esprit de décroissance, tu peux favoriser des vêtements de qualité et ne pas céder à la sur-consommation. Mais voilà, s’habiller de manière responsable n’est pas chose aisée pour un petit budget. Retrouve nos astuces écologiques et adaptées à ton porte-monnaie.</p></Contenaire>
+    <Contenaire><p>Ce n’est pas secret, l’industrie du textile est très gourmande en énergie et a
+         un gros impact environnemental. <span class="green">Dans un esprit de décroissance, tu peux favoriser des 
+         vêtements de qualité et ne pas céder à la sur-consommation.</span> Mais voilà, s’habiller de manière 
+         responsable n’est pas chose aisée pour un petit budget. Retrouve nos astuces écologiques et 
+         adaptées à ton porte-monnaie.</p></Contenaire>
     <div class="">
 
         <TitleH2>Nos Articles</TitleH2>

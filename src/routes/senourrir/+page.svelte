@@ -8,7 +8,11 @@
 
 <HeroTheme srcImg="/images/logo/food.svg" title="Se nourrir"></HeroTheme>
 <section>
-    <Contenaire><p>À l'heure où la surconsommation aggrave les défis environnementaux, il est crucial d'explorer des voies alternatives pour nourrir notre corps et notre planète de manière plus durable. Cette plateforme est votre guide pour comprendre l'importance de la décroissance et de la réduction de consommation dans le domaine alimentaire.À l'heure où la surconsommation aggrave les défis environnementaux, il est crucial d'explorer des voies alternatives pour nourrir notre corps et notre planète de manière plus durable. Cette plateforme est votre guide pour comprendre l'importance de la décroissance et de la réduction de consommation dans le domaine alimentaire.</p></Contenaire>
+    <Contenaire><p>À l'heure où la surconsommation aggrave les défis environnementaux, 
+        il est crucial <span class="green">d'explorer des voies alternatives pour nourrir notre corps et notre planète de manière 
+        plus durable</span>. Cette plateforme est votre guide pour comprendre l'importance de la décroissance et de 
+        la réduction de consommation dans le domaine alimentaire.
+        </p></Contenaire>
     <div class="">
 
         <TitleH2>Nos Articles</TitleH2>
