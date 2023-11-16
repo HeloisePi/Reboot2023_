@@ -42,4 +42,15 @@ congélation"></HeroTheme>
     p{
         max-width: 900px;
     }
+
+    a {
+		color: #21864f;
+		font-weight: bold;
+	}
+
+	a:hover {
+		text-decoration: underline;
+		text-underline-offset: 0.4vh;
+	}
+    
 </style>
