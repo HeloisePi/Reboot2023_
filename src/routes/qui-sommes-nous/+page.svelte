@@ -15,8 +15,8 @@
 	</p>
 
 	<p>
-		Notre but ? Viser un public étudiant local et proposer des solutions et des bons plans
-		accessibles, même pour les petits budgets.
+		Notre but ? <span class="green">Viser un public étudiant local et proposer des solutions et des bons plans
+		accessibles, même pour les petits budgets.</span>
 	</p>
 
 	<TitleH2>La Décroissance, C’EST QUOI ?</TitleH2>
@@ -54,9 +54,9 @@
 
 	<p>
 		On sait que les jeunes ont souvent plus de considération pour les questions écologiques et
-		sociales que leurs aînés, mais les moyens manquent. C’est là qu’on intervient : notre but, c’est
+		sociales que leurs aînés, mais les moyens manquent. C’est là qu’on intervient : <span class="green">notre but, c’est
 		de te montrer comment implémenter la décroissance au quotidien, sans pour autant que tu aies à
-		te priver. C’est d’ailleurs un élément qui est au centre du concept de décroissance : viser la
+		te priver.</span> C’est d’ailleurs un élément qui est au centre du concept de décroissance : viser la
 		décroissance, c’est aller vers une simplicité volontaire qui ne nuit pas à ton bonheur.
 	</p>
 	<p>
@@ -88,7 +88,7 @@
 	</p>
 
 	<p>
-		Le second pas vers la décroissance, c’est de refuser de consommer. Mais le but n’est pas de
+		Le second pas vers la décroissance, <span class="green">c’est de refuser de consommer.</span> Mais le but n’est pas de
 		tirer une croix sur notre confort quotidien. Il faut donc trouver de nouvelles façons
 		d’entretenir, protéger et réparer ce qu’on possède déjà. Une autre solution serait le troc.
 	</p>
@@ -105,7 +105,7 @@
 
 	<p>
 		La décroissance prône l’épanouissement des individus et la convivialité. Le refus de consommer
-		s’ajoute à un désir de faire communauté, et de profiter d’expériences au lieu de produits.
+		s’ajoute à <span class="green">un désir de faire communauté, et de profiter d’expériences</span> au lieu de produits.
 	</p>
 
 	<p>
