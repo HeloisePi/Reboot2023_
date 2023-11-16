@@ -6,19 +6,21 @@
 <HeroTheme srcImg="/images/logo/jar.svg" title="Comment faire des 
 bocaux"></HeroTheme>
 <section>
-<Contenaire><p> Es-ce que tu connais la magie des bocaux ? <br><br>
-     C'est comme une capsule temporelle pour tes victuailles. <br><br>
-    Pas de soucis, mets-les dans un bocal! C'est pas juste stylé dans le frigo, c'est une manière de dire "Je ne gaspille rien."<br><br>
+<Contenaire><p>Est-ce que tu connais la magie des bocaux ? </p>
+    <p>C'est comme une capsule temporelle pour tes victuailles.</p>
+    <p><span class="green">Pas de soucis, mets-les dans un bocal!</span> C'est pas juste stylé dans le frigo, 
+    c'est une manière de dire "Je ne gaspille rien."</p>
     
     
-    Alors, la prochaine fois que tu fais une énorme marmite de ragù ou que t'as des fraises à revendre, prends tes bocaux, joue au chef cuistot, et sauve le monde, une conserve à la fois. C'est pas juste une astuce de grand-mère.<br><br>
+    <p>Alors, la prochaine fois que tu fais une énorme marmite de ragoût ou que t'as des 
+    fraises à revendre, <span class="green">prends tes bocaux, joue au chef cuistot, et sauve le monde, 
+    une conserve à la fois.</span> C'est pas juste une astuce de grand-mère.</p>
     
+    <p>Pour découvrir pleins d'astuces, 
+        <a href="​https://www.adeline-cuisine.fr/comment-faire-des-conserves-et-bocaux-maison-astuces-et-conseils/">clique ici</a> !</p>
+    ​
     
-    ​​https://www.adeline-cuisine.fr/comment-faire-des-conserves-et-bocaux-maison-astuces-et-conseils/
-    
-    
-    
-    <br></p>
+    </p>
     
     </Contenaire>
 </section>
