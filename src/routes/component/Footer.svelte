@@ -3,42 +3,34 @@
 
 <footer>
     <div class="contenaire">
+        <div class="">
+            <h5>Nos articles</h5>
+            <a href="../sedivertir"><p>
+                Se divertir
+            </p></a>
+            <a href="../sevetir"><p>
+                Se vêtir
+            </p></a>
+            <a href="../senourrir"><p>
+                Se nourrir
+            </p></a>
+            <a href="../divers"><p>
+                Divers
+            </p></a>
+        </div>
 
         <div class="">
             <h5>
                 À propros
             </h5>
-            <a href="../qui-sommes-nous">
-                Qui sommes-nous
-            </a>
-        </div>
-        <div class="">
-            <h5>Plan du site</h5>
-            <p>
-                Se divertir
-            </p>
-            <p>
-                Se vêtir
-            </p>
-            <p>
-                Se nourrir
-            </p>
-            <p>
-                Divers
-            </p>
-        </div>
-        <div class="">
-            <h5>
-                Feedback
-            </h5>
-            <p class="pFeedback">Envoyez un mail à cette adresse mail, pour nous recommender des tips.</p>
+            <a href="../qui-sommes-nous"><p>
+                Qui sommes-nous ?
+            </p></a>
         </div>
 
-        
-        
     </div>
     <div class="end">
-        <p class="black">© Frynge - Tous droits réservés - </p> <a href="../mentionslegales">Mentions Légales</a>
+        <p class="black">© Frynge - Tous droits réservés -  <a href="../mentionslegales">Mentions Légales</a></p>
     </div>
 </footer>
     
