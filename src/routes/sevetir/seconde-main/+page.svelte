@@ -14,7 +14,7 @@ Main"></HeroTheme>
 
     <p>Que ce soit de l’occasion ou du reconditionné, tu peux faire de belles économies et éviter de surconsommer 
     grâce à cela. Mais à part Vinted et Leboncoin, où aller chiner ? </p>
-<p><li><span class="bold">Les offres sur Internet</span> : il existe bon nombre de sites pour acheter du reconditionné ce qui est déjà économique, 
+<p><li>Les offres sur Internet : il existe bon nombre de sites pour acheter du reconditionné ce qui est déjà économique, 
     mais pour rentabiliser au maximum, tu peux consulter les offres flash sur le reconditionné qui te feront encore 
     plus économiser, pour plus d’info tu peux checker 
     <a href="https://www.reepeat.fr/articles/top-15-des-meilleurs-sites-de-produits-reconditionnes-en-2021">ce lien</a> !</li>
