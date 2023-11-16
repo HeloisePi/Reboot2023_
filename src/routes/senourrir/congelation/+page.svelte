@@ -50,7 +50,7 @@ congélation"></HeroTheme>
 
 	a:hover {
 		text-decoration: underline;
-		text-underline-offset: 0.4vh;
+		text-underline-offset: 0.4vh; 
 	}
-    
+
 </style>
