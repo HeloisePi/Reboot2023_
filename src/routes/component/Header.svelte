@@ -48,5 +48,6 @@
     }
     a:hover{
         text-decoration: underline;
+        text-underline-offset: 0.3em;
     }
 </style>
