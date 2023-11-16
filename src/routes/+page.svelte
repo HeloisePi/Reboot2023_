@@ -29,13 +29,11 @@
     </div>
     <TitleH2>Suggestion</TitleH2>
     <div class="allSuggestion">
-        <Suggestion src="https://openagenda.com/carte-jeune-bordeaux-metropole/events/izia-902066" srcImg="/images/sugestion/1.webp" title="Izïa">Depuis la sortie de son cinquième album La vitesse, Izïa la rockeuse au cœur tendre, multiplie les dates telle une tornade et se donne corps et âme à son public.</Suggestion>
-        <Suggestion src="https://www.eventbrite.fr/e/billets-boutique-ephemere-vintage-758067108127?aff=ebdssbdestsearch&_gl=1*1q18vh9*_up*MQ..*_ga*MTM1ODA3NDMxMy4xNzAwMDY3MTI4*_ga_TQVES5V6SH*MTcwMDA2NzEyNy4xLjAuMTcwMDA2NzEyNy4wLjAuMA.."  srcImg="/images/sugestion/2.webp" title="Boutique éphémère vintage">Nouveau rendez-vous du marché des Causettes avec des friperies de dingue, dans le lieu atypique du théâtre de la Rousselle!<br>
-            Sam. 18 nov. 2023 11:00 - dim. 19 nov. 2023 19:00 CET<br>
-            77 Rue de la Rousselle 33000 Bordeaux</Suggestion>
-        <Suggestion src="https://openagenda.com/carte-jeune-bordeaux-metropole/events/afterwork-vins-du-beaujolais"  srcImg="/images/sugestion/3.webp" title="Afterwork Vins du Beaujolais">Nous proposons deux sessions par afterwork, la première à 18h30 et la seconde à 20h30, afin de correspondre au mieux à vos agendas.<br>
-            Animé par : Cécile Bossan-Redon <br>
-            En partenariat avec : Inter Beaujolais <br></Suggestion>
+        <Suggestion src="" srcImg="/images/logo/scisor.svg" title="Retoucher ses vêtements : Lieux et Tutos">Plutôt que de balancer tes fringues, pourquoi pas les réparer ?
+            On sait tous que la mode va plus vite que la lumière, mais au lieu de suivre le rythme, pourquoi ne pas ralentir et donner une seconde vie à ton jean préféré? Un coup de couture par-ci, un remplacement de bouton par-là, et bam le tour est joué.</Suggestion>
+        <Suggestion src="" srcImg="/images/logo/foodContainer.svg" title="Comment bien conserver ses aliments">Pour éviter que tes courses ne se périment, faut devenir un pro du stockage. 
+            Mets-toi dans le mood du frigo bien organisé, des sachets hermétiques et des boîtes étanches. La fraîcheur, c'est ton nouveau mantra.</Suggestion>
+        <Suggestion src=""  srcImg="/images/logo/light.svg" title="Étu’Ré quoi ?">C’est une association bordelaise présente sur le Campus Universitaire de Bordeaux, Pessac, Talence et Gradignan. Elle réunit plus de 3 000 membres et propose des activités pour créer ses propres vêtements, réparer ses objets ou fabriquer ses produits ménagers en respectant la planète.</Suggestion>
     </div>
 
 </section>
