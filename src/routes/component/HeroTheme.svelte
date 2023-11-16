@@ -6,7 +6,7 @@
 
 <section>
     <img src="{srcImg}" alt="{title}">
-    <h2 class="bold">{title}</h2>
+    <h1>{title}</h1>
 </section>
 
 <style>
