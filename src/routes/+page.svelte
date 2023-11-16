@@ -42,7 +42,7 @@
     
     .textDescription{
         margin: 0 auto;
-        margin-bottom: 5rem;
+        margin-bottom: 5rem; 
         margin-top: 5rem;
         width: 80%;
         max-width: 800px;

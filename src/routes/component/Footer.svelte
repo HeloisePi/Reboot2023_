@@ -60,6 +60,12 @@ p{
         text-align: center;
     }
 
+    a:hover{
+        color: #FFFDF7;
+        text-decoration: underline;
+        text-underline-offset: 0.3em;
+    }
+
 
     @media screen and (max-width: 740px) {
         .contenaire{
@@ -75,7 +81,7 @@ p{
         }
     }
     p, h5{
-        color: white;
+        color: #FFFDF7;
     }
     .black{
         color: black;
