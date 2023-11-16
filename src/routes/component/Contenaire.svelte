@@ -22,15 +22,13 @@
 
     }
 
-    @media screen and (max-width: 400px) {
-        div{
-            box-shadow: none;
-        }
-    }
     @media screen and (max-width: 450px) {
         div{
         padding: 0rem;
     }
+    div{
+            box-shadow: none;
+        }
     }
 
 
