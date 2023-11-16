@@ -80,8 +80,4 @@ p{
     .black{
         color: black;
     }
-
-    .pFeedback{
-        max-width: 350px;
-    }
 </style>
