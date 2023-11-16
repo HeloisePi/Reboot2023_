@@ -50,13 +50,13 @@
 		></RetoucheVetement>
 	</div>
 	<TitleH2>Faire retoucher c’est bien ! Retoucher soi même, c’est mieux !</TitleH2>
-	<Contenaire><p>
+	<Contenaire><div class= "espace"><p>
 			L’envie de retoucher te vêtements te prend mais l’idée de laisser faire des retoucheurs te
 			gêne ? Pourquoi ne pas apprendre sois même a retoucher tes vêtements dans ce cas ? Grâce a ces
 			tutos apprends toi même a réparer tes vêtements ! Et n’oublie pas que rien ne t’empêche d’y
 			arriver par toi même !  Alors, la prochaine fois que ton t-shirt préféré décide de te lâcher,
 			attrape une aiguille, mets ta playlist préférée en fond, et fais-le revivre.
-		</p></Contenaire>
+		</p></div></Contenaire>
 	
 	<div class="videos">
 		<h3>Les boutons</h3>
@@ -162,5 +162,10 @@
 	h3 {
 		margin-bottom: 3rem;
 		margin-top: 1rem;
+	}
+	.espace{
+		flex-direction: column;
+		gap: 10px;
+
 	}
 </style>
