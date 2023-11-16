@@ -21,7 +21,7 @@
         z-index: 10;
         height: 70px;
         justify-content: space-between;
-        padding: 1rem;
+        padding: 2rem;
         align-items: center;
         position: fixed;
         top: 0;
