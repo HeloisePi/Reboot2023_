@@ -17,16 +17,16 @@ Main"></HeroTheme>
 <p><li><span class="bold">Les offres sur Internet</span> : il existe bon nombre de sites pour acheter du reconditionné ce qui est déjà économique, 
     mais pour rentabiliser au maximum, tu peux consulter les offres flash sur le reconditionné qui te feront encore 
     plus économiser, pour plus d’info tu peux checker 
-    <a href="https://www.reepeat.fr/articles/top-15-des-meilleurs-sites-de-produits-reconditionnes-en-2021">ce lien !</a></li>
+    <a href="https://www.reepeat.fr/articles/top-15-des-meilleurs-sites-de-produits-reconditionnes-en-2021">ce lien</a> !</li>
 <li>Tu peux aussi te rendre dans dépôts vente et des friperies, le tout c’est de trouver les moins cher 
-    et de bien chiner, on te laisse regarder ici : https://bordeauxsecret.com/les-meilleures-friperies-de-bordeaux/</li>
-<li>mmaüs est une super alternative, tu peux trouver des meubles et des vêtements pas cher, 
-    on te laisse lien pour en savoir plus : https://emmaus-france.org/groupe/emmaus-gironde/</li>
+    et de bien chiner, on te laisse regarder <a href="https://bordeauxsecret.com/les-meilleures-friperies-de-bordeaux/">ici</a>. </li>
+<li>Emmaüs est une super alternative, tu peux trouver des meubles et des vêtements pas cher, 
+    on te laisse un lien pour en savoir plus : <a href="https://emmaus-france.org/groupe/emmaus-gironde/">clique ici</a>.</li>
 <li>Il existe un site, Geev, les gens donnent des objets prêt de chez toi, car ils n'en veulent juste 
-    plus, profites-en : https://www.geev.com/fr</li>
+    plus, profites-en : c'est <a href="https://www.geev.com/fr">par ici</a>.</li>
 <li>Et pour ne pas souffrir de fracture numérique, on te recommande Emmaüs connect qui propose de 
     l’aide au personne en précarité et qui n’ont pas les moyens d’acheter du matériels 
-    multimédia : https://emmaus-connect.org/bordeaux/
+    multimédia : clique <a href="https://emmaus-connect.org/bordeaux/">ici</a>.
 </li>
 </p>
     
@@ -70,5 +70,10 @@ Main"></HeroTheme>
 
     a {
         color: #21864F;
+    }
+
+    a:hover {
+        text-decoration: underline;
+        text-underline-offset: 0.15em;
     }
 </style>
