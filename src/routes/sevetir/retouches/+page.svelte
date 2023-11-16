@@ -116,8 +116,7 @@
 		<TitleH2>Un autre article susceptible de vous intéresser</TitleH2>
 		<div class="allButton">
 			<ThemeButton src="../sevetir/seconde-main" logo="/images/logo/eco.svg"
-				>RL’esprit “Seconde main”</ThemeButton
-			>
+				>L’esprit “Seconde main”</ThemeButton> 
 		</div>
 	</div>
 </section>
