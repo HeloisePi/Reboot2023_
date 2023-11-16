@@ -6,7 +6,7 @@
     <div class="link">
         <a href="../sedivertir"><p>Se divertir</p></a>
         <a href="../sevetir"><p>Se vêtir</p></a>
-        <a href="../senourrir"><p>Se nourir</p></a>
+        <a href="../senourrir"><p>Se nourrir</p></a>
         <a href="../divers"><p>Divers</p></a>
         <a href="../qui-sommes-nous"><p>Qui sommes nous ?</p></a>
     </div>
