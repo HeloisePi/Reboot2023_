@@ -13,7 +13,7 @@
 
 <Hero title="Frynge"/>
 <section>
-    <p class="textDescription">Bienvenue sur Frynge, la plateforme <span class="bold"> bons plans </span> qui t’aide à entrer dans une démarche de <span class="bold"> décroissance</span>. Tutos, activités, astuces, bons plans… fais le plein d’idées à petit budget.</p>
+    <p class="textDescription">Bienvenue sur Frynge, la plateforme <span class="bold"> bons plans bordelais </span> qui t’aide à entrer dans une démarche de <span class="bold"> décroissance</span>. Tutos, activités, astuces, bons plans… fais le plein d’idées à petit budget.</p>
     <TitleH2>Bons plans</TitleH2>
     <div class="BoutonsTheme">
         <Theme src="../sedivertir" logo="/images/logo/hobbies.svg" > Se<br> Divertir</Theme>
@@ -27,7 +27,7 @@
         <!--<iframe src="https://youtube.com/embed/HnD_0sSsEas?si=7bNNWkt6cDfzNv0O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <iframe src="https://youtube.com/embed/_UhNp9cU87o?si=uc8Ly51gTilccDqf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
     </div>
-    <TitleH2>Suggestion</TitleH2>
+    <TitleH2>Suggestions</TitleH2>
     <div class="allSuggestion">
         <Suggestion src="" srcImg="/images/logo/scisor.svg" title="Retoucher ses vêtements : Lieux et Tutos">Plutôt que de balancer tes fringues, pourquoi pas les réparer ?
             On sait tous que la mode va plus vite que la lumière, mais au lieu de suivre le rythme, pourquoi ne pas ralentir et donner une seconde vie à ton jean préféré? Un coup de couture par-ci, un remplacement de bouton par-là, et bam le tour est joué.</Suggestion>
