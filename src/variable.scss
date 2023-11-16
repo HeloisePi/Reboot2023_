@@ -6,15 +6,19 @@
     font-family: 'HelveticaNeueInterface_thin';
     src: url(/src/lib/assets/HelveticaNeueInterface_thin.ttf);
 }
+@font-face {
+    font-family: 'BebasNeue-Regular';
+    src: url(/src/lib/assets/BebasNeue-Regular.ttf);
+}
 
 h1{
-    font-family: 'HelveticaNeueInterface_thin', 'Courier New'; 
+    font-family: 'BebasNeue-Regular', 'Courier New'; 
     font-size: 4rem;
 }
 
 @media screen and (max-width: 750px) {
     h1{
-        font-family: 'HelveticaNeueInterface_thin', 'Courier New';     
+        font-family: 'BebasNeue-Regular', 'Courier New';     
         font-size: 100px;
     }
 }
@@ -25,7 +29,7 @@ h1{
 }
 
 h2{
-    font-family: 'HelveticaNeueInterface_thin', 'Courier New';    
+    font-family: 'BebasNeue-Regular', 'Courier New';    
     font-size: 36px;
 }
 
@@ -55,9 +59,6 @@ label{
 a{
     font-family: 'HelveticaNeueInterface_thin', 'Courier New';    
    color: black; 
-}
-a:hover{
-    text-decoration: underline;
 }
 
 .bold{
