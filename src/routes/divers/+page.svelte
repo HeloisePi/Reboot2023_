@@ -8,17 +8,20 @@
 
 <HeroTheme srcImg="/images/logo/eco.svg" title="Divers"></HeroTheme>
 <section>
-    <Contenaire><p>D’après le site notre-environenment.gouv.fr :  “En 2019, les véhicules particuliers émettent 71,6 millions de tonnes équivalent CO2”. C’est pourquoi se déplacer proprement est un enjeu essentiel, de plus, cela permet de faire des économies.
-        En 2020, le réseau de tramway de Bordeaux est positionné en tête des réseaux des grandes villes. Toutefois, il faut garder en tête que le tram n’est pas la seule alternative. </p></Contenaire>
+    <Contenaire><p>D’après le site notre-environnement.gouv.fr :  <span class="green">“En 2019, les véhicules 
+        particuliers émettent 71,6 millions de tonnes équivalent CO2”.</span> C’est pourquoi se déplacer proprement est un 
+        enjeu essentiel, de plus, cela permet de faire des économies.
+        En 2020, le réseau de tramway de Bordeaux est positionné en tête des réseaux des grandes villes. 
+        Toutefois, il faut garder en tête que le tram n’est pas la seule alternative. </p></Contenaire>
         <div class="link">
             
             <a href="https://boutique.infotbm.com/products/34 " class="help">
                 <li>TBM englobe, en plus du tramway, le vélo électrique, le bus et bien d’autres services. Dans cette démarche, le service propose des tarifs préférentiels pour les étudiants, tu peux les retrouver ici. </li>
             </a>
-            <a href="https://www.infotbm.com/fr/tarificationsolidaire " class="help">
+            <a href="https://www.infotbm.com/fr/tarificationsolidaire" class="help">
                 <li>Il existe des remise pour les personnes en situation de précarité, pour en savoir plus, c’est ici !</li>
             </a>
-            <a href="https://www.economie.gouv.fr/particuliers/tout-savoir-covoiturage " class="help">
+            <a href="https://www.economie.gouv.fr/particuliers/tout-savoir-covoiturage" class="help">
                 <li>Le covoiturage est une solution intelligente pour des trajets quotidiens réguliers ou des trajets plus, tu peux te renseigner ici !</li>
             </a>
             <a href="https://www.sncf-connect.com/app/catalogue/description/carte-avantage-jeune" class="help">
