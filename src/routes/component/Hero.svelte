@@ -35,8 +35,12 @@
     margin-left: 50%;
     transform: translate(-50%, 23vw);
     color: white;
+    font-family: 'BebasNeue-Regular', 'Courier New'; 
+    font-size: 10vw;
+    white-space : nowrap;
+}
 
 
-    }
+    
 
 </style>
