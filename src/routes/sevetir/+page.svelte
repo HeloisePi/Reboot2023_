@@ -38,12 +38,6 @@
         padding-right: 1rem;
     }
     }
-    h2{
-        margin-bottom: 2rem;
-    }
-    li{
-        margin-bottom: 0.5rem;
-    }
     .allButton{
         display: flex;
         gap: 2rem;

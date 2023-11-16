@@ -27,6 +27,11 @@
         cursor: pointer;
 
     }
+    @media screen and (max-width: 460px) {
+        a{
+            width: 200px;
+    
+        }}
     a:hover{
         border-radius: 38px;
         background: #ffffff;
