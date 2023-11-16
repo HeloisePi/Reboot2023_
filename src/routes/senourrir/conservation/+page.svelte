@@ -12,7 +12,7 @@ aliments"></HeroTheme>
 
  Pour éviter que tes courses ne se périment, faut devenir un pro du stockage. 
 Mets-toi dans le mood du frigo bien organisé, des sachets hermétiques et des boîtes étanches. 
-   <span class="bold">La fraîcheur, c'est ton nouveau mantra.</span>
+   <span class="green">La fraîcheur, c'est ton nouveau mantra.</span>
     
 Les légumes et les fruits sont les plus compliqués, mais une fois que tu maîtrises l’art de la conservation,
      tu peux garder ton concombre et tes tomates fraîches plus longtemps que tu ne le pensais.
@@ -49,6 +49,7 @@ Pour en savoir plus, <a href="https://cuisine-addict.com/comment-bien-conserver-
 
     a:hover {
         text-decoration: underline;
+        font-weight: bold;
         text-underline-offset: 0.3rem;
     }
 </style>
