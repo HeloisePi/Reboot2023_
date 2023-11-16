@@ -1,10 +1,10 @@
 <script>
-	import Hero from '../component/Hero.svelte';
+	import HeroTheme from '../component/HeroTheme.svelte';
 	import TitleH2 from '../component/TitleH2.svelte';
 	import Name from '../component/Name.svelte';
 </script>
 
-<Hero title="Qui sommes-nous ?" />
+<HeroTheme srcImg="/images/logo/who.svg" title="Qui sommes-nous ?" ></HeroTheme>
 <section>
 	<TitleH2>Frynge</TitleH2>
 	<p>
@@ -15,20 +15,25 @@
 	</p>
 
 	<p>
-		Notre but ? <span class="green">Viser un public étudiant local et proposer des solutions et des bons plans
-		accessibles, même pour les petits budgets.</span>
+		Notre but ? <span class="green"
+			>Viser un public étudiant local et proposer des solutions et des bons plans accessibles, même
+			pour les petits budgets.</span
+		>
 	</p>
 
 	<TitleH2>La Décroissance, C’EST QUOI ?</TitleH2>
 
 	<p>
-		La décroissance, c’est l’idée que l’augmentation des richesses ne conduit pas au bien-être
-		social.
+		La décroissance, <span class="green"
+			>c’est l’idée que l’augmentation des richesses ne conduit pas au bien-être social.</span
+		>
 	</p>
 
 	<p>
-		Dès 1970, des économistes étudient le modèle capitaliste et ses aboutissants. Ils arrivent à la
-		conclusion que ce modèle n’a pas réellement tenu ses promesses :
+		Dès 1970, <span class="green"
+			>des économistes étudient le modèle capitaliste et ses aboutissants.</span
+		>
+		Ils arrivent à la conclusion que ce modèle n’a pas réellement tenu ses promesses :
 		<li>
 			Même si on produit à longueur de journée, on fait jamais partie de ceux qui en profitent (ex:
 			chômage en masse, précarité…)
@@ -43,8 +48,8 @@
 	</p>
 
 	<p>
-		La décroissance, c’est avant tout un modèle sociétal, ce qui veut dire que t’as peu de chances
-		d’y arriver si t’es tout seul.
+		La décroissance,<span class="green"> c’est avant tout un modèle sociétal,</span> ce qui veut dire
+		que t’as peu de chances d’y arriver si t’es tout seul.
 	</p>
 
 	<p>
@@ -54,10 +59,12 @@
 
 	<p>
 		On sait que les jeunes ont souvent plus de considération pour les questions écologiques et
-		sociales que leurs aînés, mais les moyens manquent. C’est là qu’on intervient : <span class="green">notre but, c’est
-		de te montrer comment implémenter la décroissance au quotidien, sans pour autant que tu aies à
-		te priver.</span> C’est d’ailleurs un élément qui est au centre du concept de décroissance : viser la
-		décroissance, c’est aller vers une simplicité volontaire qui ne nuit pas à ton bonheur.
+		sociales que leurs aînés, mais les moyens manquent. C’est là qu’on intervient : <span
+			class="green"
+			>notre but, c’est de te montrer comment implémenter la décroissance au quotidien, sans pour
+			autant que tu aies à te priver.</span
+		> C’est d’ailleurs un élément qui est au centre du concept de décroissance : viser la décroissance,
+		c’est aller vers une simplicité volontaire qui ne nuit pas à ton bonheur.
 	</p>
 	<p>
 		Concrètement, la décroissance, on te propose de t’y essayer sous trois axes de réflexion (et de
@@ -66,7 +73,7 @@
 
 	<p><li class=" bold">Comment consommer moins? → En consommant mieux !</li></p>
 	<p>
-		Par exemple : acheter à petit prix ce qui est déjà produit, l’’éco-conception, trouver des
+		Par exemple : acheter à petit prix ce qui est déjà produit, l’éco-conception, trouver des
 		alternatives (ex: transports en commun)
 	</p>
 
@@ -88,9 +95,9 @@
 	</p>
 
 	<p>
-		Le second pas vers la décroissance, <span class="green">c’est de refuser de consommer.</span> Mais le but n’est pas de
-		tirer une croix sur notre confort quotidien. Il faut donc trouver de nouvelles façons
-		d’entretenir, protéger et réparer ce qu’on possède déjà. Une autre solution serait le troc.
+		Le second pas vers la décroissance, <span class="green">c’est de refuser de consommer.</span> Mais
+		le but n’est pas de tirer une croix sur notre confort quotidien. Il faut donc trouver de nouvelles
+		façons d’entretenir, protéger et réparer ce qu’on possède déjà. Une autre solution serait le troc.
 	</p>
 	<p>
 		<li class="bold">
@@ -105,7 +112,8 @@
 
 	<p>
 		La décroissance prône l’épanouissement des individus et la convivialité. Le refus de consommer
-		s’ajoute à <span class="green">un désir de faire communauté, et de profiter d’expériences</span> au lieu de produits.
+		s’ajoute à <span class="green">un désir de faire communauté, et de profiter d’expériences</span>
+		au lieu de produits.
 	</p>
 
 	<p>

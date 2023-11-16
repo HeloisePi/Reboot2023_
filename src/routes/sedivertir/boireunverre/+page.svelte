@@ -9,14 +9,14 @@ import HeroTheme from "../../component/HeroTheme.svelte";
     mais tu vas toujours dans le même bar parce que soit la pinte n'est pas chère, 
     soit la terrasse est grande, soit tu ne connais pas les autres bars ?</p>
  
-    <p>J’ai une solution pour toi : <span class="bold">la Schlouk map</span>. C’est une application gratuite qui 
-    répertorie tous les bars de ta ville en indiquant leurs tarifs, et même les horaires d’Happy Hour.</p>
+    <p>J’ai une solution pour toi : <span class="bold">la Schlouk map</span>. C’est une <span class="green">application gratuite qui 
+    répertorie tous les bars de ta ville en indiquant leurs tarifs, et même les horaires d’Happy Hour</span>.</p>
     
     <p>On le sait tous, boire des coups, c’est sympa, mais ça coûte ! Là, tu pourras trouver les meilleurs 
     tarifs pour profiter sans te ruiner.</p>
     
-    <p>L’appli est super pratique, les bars partenaires sont répertoriés sur une carte ce qui te 
-    permet de les retrouver rapidement. Tu peux même filtrer tes recherches selon ce que tu veux : 
+    <p>L’appli est super pratique, <span class="green">les bars partenaires sont répertoriés sur une carte ce qui te 
+    permet de les retrouver rapidement</span>. Tu peux même filtrer tes recherches selon ce que tu veux : 
     les Happy hours, la meilleure terrasse, une pinte à moins de 4€… </p>
     <p>Et quand tu trouves des vrais bons plans, tu peux les ajouter à tes favoris ou les 
     retrouver dans tes bars visités.</p>

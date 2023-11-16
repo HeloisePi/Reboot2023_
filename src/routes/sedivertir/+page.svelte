@@ -10,10 +10,10 @@
 <section>
 	<Contenaire>
 		<h2 class="bold">Le bien-être, on en fait quoi ?</h2>
-		<p>Timothée Parrique (docteur en sciences économiques) explique que : “La décroissance repose sur
+		<p>Timothée Parrique (docteur en sciences économiques) explique que : <span class="green">“La décroissance repose sur
 			une réduction planifiée et démocratique de la production et de la consommation dans les pays
 			riches pour réduire les pressions environnementales et les inégalités, tout en améliorant le
-			bien-être.”</p>
+			bien-être.”</span></p>
             <p>Je sais, la définition peut paraître un peu technique ! Je te propose qu’on
 			s’arrête sur un point : <span class="bold">le bien-être</span>. Tu t’es déjà senti isolé ? Trop souvent, tu passes tes
 			week-ends chez toi à tourner en rond ? </p>
