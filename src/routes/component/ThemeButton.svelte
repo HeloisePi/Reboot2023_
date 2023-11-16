@@ -16,14 +16,13 @@
         flex-direction: column;
         width: 400px;
         height: 400px;
-        height: fit-content;
         border-radius: 38px;
         background: #ffffff;
         box-shadow:  13px 13px 26px #cccccc,
              -13px -13px 26px #ffffff;
         align-items: center;
         justify-content: center;
-        gap: 0.5rem;
+        gap: 1rem;
         transition: ease-in  500ms;
         cursor: pointer;
 

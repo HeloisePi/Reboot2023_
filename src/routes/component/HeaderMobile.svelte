@@ -62,6 +62,9 @@ onMount(() => {
     a{
       width: fit-content;
     }
+    a:hover{
+        text-decoration: underline;
+    }
   .headershow .active{
     display: block;
   }
